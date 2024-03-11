@@ -15,7 +15,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preload" id="bootstrapcss-css" href="<?php BASE_PATH ?>css/bootstrap.min.css" />
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-    <title><?php echo SITE_TITLE; ?></title>
+    <title><?php echo PAGE_NAME; ?> - <?php echo SITE_TITLE; ?></title>
     <meta name="description" content="Vardhan solar is one of the leading solar distributors, supplying quality solar solutions for residential, commercial &amp; corporate industries." />
     <link rel="canonical" href="<?php BASE_PATH ?>" />
     <meta property="og:locale" content="en_US" />

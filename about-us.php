@@ -1,29 +1,15 @@
 <?php
 include_once('config.php');
-define('SITE_TITLE', "About Us - vardhansolar | Solar Panel Provider");
-
+define('PAGE_NAME', "About Us");
 include_once('common/head.php');
 ?>
 
 <body class="page-template-default page page-id-35">
 
     <div class="page-wrapper">
-
         <?php include_once('common/header.php'); ?>
+        <?php include_once('common/breadcrumb.php'); ?>
 
-        <div class="main">
-            <section class="page-title lazy" style data-bg="url('<?php BASE_PATH ?>images/2.webp')">
-                <div class="container">
-                    <h1 class="page-main__title">About Us</h1>
-                    <div class="page__breadcrumb">
-                        <ul id="ah-breadcrumb" class="ah-breadcrumb">
-                            <li class="item"><a href="<?php BASE_PATH ?>">Home</a></li>
-                            <li class="item-current item">About Us</li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-        </div>
         <section id="content_block_1" class="content_blocks_lists content_block_1">
 
             <section class="solar-one">

@@ -1,7 +1,6 @@
 <?php
 include_once('config.php');
-define('SITE_TITLE', "Home page - vardhansolar | Solar Panel Provider");
-
+define('PAGE_NAME', "Home page");
 include_once('common/head.php');
 ?>
 

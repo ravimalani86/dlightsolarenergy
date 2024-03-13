@@ -33,7 +33,7 @@ include_once('common/head.php');
                             <div class="solar-one__content-inner-column">
 
                                 <div class="section-title">
-                                    <h2 class="section-title__title">About Vardhan Solar</h2>
+                                    <h2 class="section-title__title">About D-Light Solar</h2>
                                 </div>
                                 <p class="solar-one__text">We’re a reliable energy partner to world wide businesses big and
                                     small. Benefit from our experience, expertise and ment to find energy savings designed
@@ -130,7 +130,7 @@ include_once('common/head.php');
                             <div class="vision-block">
                                 <h3 class="purpose-one__title-two">Our Mission</h3>
                                 <div class="purpose-one__text-two">
-                                    <p>Our mission is to provide our employees with an honest and helpful working environment, where every employee individually and collectively, can dedicate themselves to providing our customers with excellent workmanship, extraordinary service, and professional integrity. Our pledge is to establish long lasting relationships with our employees, clients, vendors, contractors and partners by exceeding their expectations and gaining their trust through exceptional performance by every member of the Vardhan team.</p>
+                                    <p>Our mission is to provide our employees with an honest and helpful working environment, where every employee individually and collectively, can dedicate themselves to providing our customers with excellent workmanship, extraordinary service, and professional integrity. Our pledge is to establish long lasting relationships with our employees, clients, vendors, contractors and partners by exceeding their expectations and gaining their trust through exceptional performance by every member of the D-Light team.</p>
                                     <p>Best Quality, Top quality solar panels for installation and most experienced team are the driving factors of our strength.</p>
                                     <p>On Time,Today Lume Solar is known for its on time project delivery as well as our on time after sales service. Time is Money!</p>
                                 </div>

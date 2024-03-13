@@ -16,12 +16,12 @@
     <link rel="preload" id="bootstrapcss-css" href="<?php echo BASE_PATH ?>css/bootstrap.min.css" />
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
     <title><?php echo PAGE_NAME; ?> - <?php echo SITE_TITLE; ?></title>
-    <meta name="description" content="Vardhan solar is one of the leading solar distributors, supplying quality solar solutions for residential, commercial &amp; corporate industries." />
+    <meta name="description" content="D-Light solar is one of the leading solar distributors, supplying quality solar solutions for residential, commercial &amp; corporate industries." />
     <link rel="canonical" href="<?php echo BASE_PATH ?>" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="<?php echo SITE_TITLE; ?>" />
-    <meta property="og:description" content="Vardhan solar is one of the leading solar distributors, supplying quality solar solutions for residential, commercial &amp; corporate industries." />
+    <meta property="og:description" content="D-Light solar is one of the leading solar distributors, supplying quality solar solutions for residential, commercial &amp; corporate industries." />
     <meta property="og:url" content="<?php echo BASE_PATH ?>" />
     <meta property="og:site_name" content="vardhansolar" />
     <meta property="article:publisher" content="https://www.facebook.com/vsolaroof" />

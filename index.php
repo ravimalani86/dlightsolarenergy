@@ -38,9 +38,9 @@ include_once('common/head.php');
                                 <div class="inner-column">
 
                                     <div class="section-title">
-                                        <h2 class="section-title__title">Why Choose <br> Vardhan Solar</h2>
+                                        <h2 class="section-title__title">Why Choose <br> D-Light Solar</h2>
                                     </div>
-                                    <p class="enerygy-one__text">Vardhan Solar is one of the leading solar distributors since a decade, supplying quality solar solutions for residential, commercial &#038; corporate industries.
+                                    <p class="enerygy-one__text">D-Light Solar is one of the leading solar distributors since a decade, supplying quality solar solutions for residential, commercial &#038; corporate industries.
                                     </p>
                                     <p class="enerygy-one__text-two">We have captured the industry with our core qualities of flexibility, unique approach, trustworthiness and cooperation. We aim to avail innovative solar solutions to the market via close collaboration with world’s leading manufacturers.
                                     </p>
@@ -104,8 +104,8 @@ include_once('common/head.php');
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-pv.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/solar-panel/"> Solar Panels </a></h3>
-                                    <a href="<?php echo BASE_PATH ?>product/solar-panel/" class="service-one__read-more">
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-panel.php"> Solar Panels </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>solar-panel.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -114,8 +114,8 @@ include_once('common/head.php');
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/on-grid-inverter.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/on-grid-inverter/"> On-grid Inverter </a></h3>
-                                    <a href="<?php echo BASE_PATH ?>product/on-grid-inverter/" class="service-one__read-more">
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>on-grid-inverter.php"> On-grid Inverter </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>on-grid-inverter.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -124,38 +124,38 @@ include_once('common/head.php');
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-accessories.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/solar-accessories/"> Solar Accessories </a></h3>
-                                    <a href="<?php echo BASE_PATH ?>product/solar-accessories/" class="service-one__read-more">
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-accessories.php"> Solar Accessories </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>solar-accessories.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
                             </div>
 
-                            <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
+                            <!-- <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-water-heater.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/solar-water-heater/"> Solar Water Heater </a></h3>
-                                    <a href="<?php echo BASE_PATH ?>product/solar-water-heater/" class="service-one__read-more">
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-water-heater.php"> Solar Water Heater </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>solar-water-heater.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
-                            </div>
+                            </div> -->
 
-                            <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
+                            <!-- <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/battery-inverter.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/battery-inverter/"> Battery Inverter </a></h3>
-                                    <a href="<?php echo BASE_PATH ?>product/battery-inverter/" class="service-one__read-more">
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>battery-inverter.php"> Battery Inverter </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>battery-inverter.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-street-light.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/solar-street-light/"> Solar Street Light </a></h3>
-                                    <a href="<?php echo BASE_PATH ?>product/solar-street-light/" class="service-one__read-more">
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-street-light.php"> Solar Street Light </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>solar-street-light.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -205,7 +205,7 @@ include_once('common/head.php');
                                                 <div>Maintenance</div>
                                             </h3>
                                         </div>
-                                        <div class="service-three__text">Power generation depends on routine maintenance.Maintaining solar panel is not a big deal Likewise schedule cleaning of solar panels. So Vardhan solar always guides our client to use best technology and techniques for smooth and continuous output.
+                                        <div class="service-three__text">Power generation depends on routine maintenance.Maintaining solar panel is not a big deal Likewise schedule cleaning of solar panels. So D-Light solar always guides our client to use best technology and techniques for smooth and continuous output.
                                         </div>
                                     </div>
                                 </div>
@@ -397,7 +397,7 @@ include_once('common/head.php');
                                         <div class="project-one__image">
                                             <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-other-section.webp" alt="gallery-section" tilte="Galley Section" />
                                             <div class="project-one__overlay-box">
-                                                <h3 class="project-one__title">Commercial Project Installed by Vardhan Solar</h3>
+                                                <h3 class="project-one__title">Commercial Project Installed by D-Light Solar</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -523,36 +523,36 @@ include_once('common/head.php');
                                 <div class="testimonial-two__single-inner">
                                     <div class="testimonial-two__author-info">
                                         <div class="testimonial-two__author-image">
-                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/ashvin-rajani.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?>images/ashvin-rajani.webp" alt />
                                         </div>
                                         <h3 class="testimonial-two__title">Dr. Ashvin Rajanib</h3>
                                         <div class="testimonial-two__designation">Doctor</div>
                                     </div>
-                                    <div class="testimonial-two__text">Vardhan is one step solution where you can get more than you’ve expected. Their routine checkups improves lifetime of solar systems and Now Vardhan has digitalized their whole service by launching Their own app. Vsolaroof is digital platform available in your palm. </div>
+                                    <div class="testimonial-two__text">D-Light is one step solution where you can get more than you’ve expected. Their routine checkups improves lifetime of solar systems and Now D-Light has digitalized their whole service by launching Their own app. Vsolaroof is digital platform available in your palm. </div>
                                 </div>
                             </div>
                             <div class="testimonial-two__single">
                                 <div class="testimonial-two__single-inner">
                                     <div class="testimonial-two__author-info">
                                         <div class="testimonial-two__author-image">
-                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/rajesh.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?>images/rajesh.webp" alt />
                                         </div>
                                         <h3 class="testimonial-two__title">Mr. Rajesh(Businessman)</h3>
                                         <div class="testimonial-two__designation">Ramdev Gems</div>
                                     </div>
-                                    <div class="testimonial-two__text">We have heard lot regarding solar but Vardhan acknowledge us about our actual requirement and we decided to get solar panel installed on our unusable terrace. Consumers trusts only trusted companies..</div>
+                                    <div class="testimonial-two__text">We have heard lot regarding solar but D-Light acknowledge us about our actual requirement and we decided to get solar panel installed on our unusable terrace. Consumers trusts only trusted companies..</div>
                                 </div>
                             </div>
                             <div class="testimonial-two__single">
                                 <div class="testimonial-two__single-inner">
                                     <div class="testimonial-two__author-info">
                                         <div class="testimonial-two__author-image">
-                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/babubhai-rabadiya.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?>images/babubhai-rabadiya.webp" alt />
                                         </div>
                                         <h3 class="testimonial-two__title">Babubhai Rabadiya</h3>
                                         <div class="testimonial-two__designation">Advocate</div>
                                     </div>
-                                    <div class="testimonial-two__text">Product I was searching, was available at footstep distance but Quality Vardhan offer are above industry standards. We all buy products from where we get what we didn’t know and from where we get best after sale service.</div>
+                                    <div class="testimonial-two__text">Product I was searching, was available at footstep distance but Quality D-Light offer are above industry standards. We all buy products from where we get what we didn’t know and from where we get best after sale service.</div>
                                 </div>
                             </div>
                         </div>
@@ -666,22 +666,22 @@ include_once('common/head.php');
 							}">
                                     <div>
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/msme.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?>images/msme.webp" alt />
                                         </div>
                                     </div>
                                     <div>
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/sura.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?>images/sura.webp" alt />
                                         </div>
                                     </div>
                                     <div>
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/make-in-india.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?>images/make-in-india.webp" alt />
                                         </div>
                                     </div>
                                     <div>
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/geda.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?>images/geda.webp" alt />
                                         </div>
                                     </div>
                                 </div>

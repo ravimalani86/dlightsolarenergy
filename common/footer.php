@@ -14,10 +14,10 @@
                                 <div class="site-footer__about-text">
                                     We Guide You To Select The Best Option, We Are Offering” A rooftop photovoltaic power station, or rooftop PV system,is a photovoltaic system that has its electricity-generating solar panels mounted on the rooftop of a residential or commercial building or structure</div>
                                 <ul class="mobile-menu__social">
-                                    <li><a aria-label="Instagram" href="https://www.instagram.com/dlightsolarenergy/?igsh=eG53Y2dkNXh3dXhu" target="_blank" class="fa fa-instagram" rel="noopener">Instagram</a></li>
-                                    <li><a aria-label="Facebook" href="https://www.facebook.com/dlightsolarenergy" target="_blank" class="fa fa-facebook-f" rel="noopener">Facebook</a></li>
-                                    <li><a aria-label="Twitter" href="https://twitter.com/dlightsolarenergy" target="_blank" class="fa fa-twitter" rel="noopener">v</a></li>
-                                    <li><a aria-label="Pinterest" href="https://www.pinterest.com/dlightsolarenergy/" target="_blank" class="fa fa-pinterest-p" rel="noopener">Pinterest</a></li>
+                                    <li><a aria-label="Instagram" href="<?php echo INSTAGRAM ?>" target="_blank" class="fa fa-instagram" rel="noopener">Instagram</a></li>
+                                    <li><a aria-label="Facebook" href="<?php echo FACEBOOK ?>" target="_blank" class="fa fa-facebook-f" rel="noopener">Facebook</a></li>
+                                    <li><a aria-label="Twitter" href="<?php echo TWITTER ?>" target="_blank" class="fa fa-twitter" rel="noopener">Twitter</a></li>
+                                    <li><a aria-label="Pinterest" href="<?php echo PINTEREST ?>" target="_blank" class="fa fa-pinterest-p" rel="noopener">Pinterest</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -29,17 +29,23 @@
                         <div class="menu-oue-products-container">
                             <ul id="menu-oue-products" class="menu">
                                 <li id="menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-447">
-                                    <a href="<?php echo BASE_PATH ?>solar-panel.php">&#8211; Solar Panels</a></li>
+                                    <a href="<?php echo BASE_PATH ?>solar-panel.php">&#8211; Solar Panels</a>
+                                </li>
                                 <li id="menu-item-446" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-446">
-                                    <a href="<?php echo BASE_PATH ?>on-grid-inverter.php">&#8211; On-grid Inverter</a></li>
+                                    <a href="<?php echo BASE_PATH ?>on-grid-inverter.php">&#8211; On-grid Inverter</a>
+                                </li>
                                 <li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-445">
-                                    <a href="<?php echo BASE_PATH ?>solar-accessories.php">&#8211; Solar Accessories</a></li>
-                                <li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-444">
-                                    <a href="<?php echo BASE_PATH ?>solar-water-heater.php">&#8211; Solar Water Heater</a></li>
+                                    <a href="<?php echo BASE_PATH ?>solar-accessories.php">&#8211; Solar Accessories</a>
+                                </li>
+                                <!-- <li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-444">
+                                    <a href="<?php echo BASE_PATH ?>solar-water-heater.php">&#8211; Solar Water Heater</a>
+                                </li>
                                 <li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-443">
-                                    <a href="<?php echo BASE_PATH ?>battery-inverter.php">&#8211; Battery Inverter</a></li>
+                                    <a href="<?php echo BASE_PATH ?>battery-inverter.php">&#8211; Battery Inverter</a>
+                                </li> -->
                                 <li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-442">
-                                    <a href="<?php echo BASE_PATH ?>solar-street-light.php">&#8211; Solar Street Light</a></li>
+                                    <a href="<?php echo BASE_PATH ?>solar-street-light.php">&#8211; Solar Street Light</a>
+                                </li>
                             </ul>
                         </div>
                     </aside>
@@ -86,7 +92,7 @@
 </footer>
 <div class="whatsup">
     <a href="https://wa.me/<?php echo SITE_MOBILE1 ?>" target="_blank" class="whatsapp-sticky" title="For Whatsapp Messenger">
-    <i class="fa fa-whatsapp"></i></a>
+        <i class="fa fa-whatsapp"></i></a>
 </div>
 <div class="scroll-to-top scroll-to-target" data-target="html" style="display: block;"><span class="fa fa-arrow-up"></span></div>
 <script type="text/javascript">

@@ -24,12 +24,12 @@
                 <div class="main-header__logo-box">
                     <div class="main-header__logo d-none d-xl-block">
                         <a href="<?php echo BASE_PATH ?>" rel="home">
-                            <img class="lazy" width="288" height="80" src="<?php echo BASE_PATH ?>images/Vardhan-Logo-bw.png" alt=" vardhansolar" title=" vardhansolar" />
+                            <img class="lazy" width="288" height="80" src="<?php echo BASE_PATH ?>images/logo/dlight-logo-bw.png" alt="dlightsolar" title="dlightsolar" />
                         </a>
                     </div>
                     <div class="main-header__logo d-block d-xl-none">
                         <a href="<?php echo BASE_PATH ?>" rel="home">
-                            <img class="lazy" width="288" height="80" src="<?php echo BASE_PATH ?>images/Vardhan-Logo-1.png" alt=" vardhansolar" title=" vardhansolar" />
+                            <img class="lazy" width="288" height="80" src="<?php echo BASE_PATH ?>images/logo/dlight-logo.png" alt="dlightsolar" title="dlightsolar" />
                         </a>
                     </div>
                 </div>
@@ -57,8 +57,8 @@
                                             <li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-417"><a href="<?php echo BASE_PATH ?>solar-panel.php">Solar Panels</a></li>
                                             <li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-416"><a href="<?php echo BASE_PATH ?>on-grid-inverter.php">On-Grid Inverters</a></li>
                                             <li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-415"><a href="<?php echo BASE_PATH ?>solar-accessories.php">Solar Accessories</a></li>
-                                            <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-414"><a href="<?php echo BASE_PATH ?>solar-water-heater.php">Solar Water Heater</a></li>
-                                            <li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-413"><a href="<?php echo BASE_PATH ?>battery-inverter.php">Battery Inverter</a></li>
+                                            <!-- <li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-414"><a href="<?php echo BASE_PATH ?>solar-water-heater.php">Solar Water Heater</a></li> -->
+                                            <!-- <li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-413"><a href="<?php echo BASE_PATH ?>battery-inverter.php">Battery Inverter</a></li> -->
                                             <li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-412"><a href="<?php echo BASE_PATH ?>solar-street-light.php">Solar Street Light</a></li>
                                         </ul>
                                     </li>
@@ -79,7 +79,7 @@
 
             <div class="sticky-header__logo pull-left fa-pull-left">
                 <a href="<?php echo BASE_PATH ?>" rel="home">
-                    <img class="lazy" width="216" height="60" src="<?php echo BASE_PATH ?>images/Vardhan-Logo-1.png" alt=" vardhansolar" title="vardhansolar" />
+                    <img class="lazy" width="216" height="60" src="<?php echo BASE_PATH ?>images/logo/dlight-logo.png" alt="dlightsolar" title="dlightsolar" />
                 </a>
             </div>
 
@@ -100,7 +100,7 @@
         <nav class="mobile-menu__box">
             <div class="mobile-menu__logo">
                 <a href="<?php echo BASE_PATH ?>" rel="home">
-                    <img class="lazy" width="216" height="60" src="<?php echo BASE_PATH ?>images/Vardhan-Logo-1.png" alt="vardhansolar" title="vardhansolar" />
+                    <img class="lazy" width="216" height="60" src="<?php echo BASE_PATH ?>images/logo/dlight-logo.png" alt="dlightsolar" title="dlightsolar" />
                 </a>
             </div>
             <div class="mobile-menu__outer">
@@ -109,16 +109,17 @@
 
             <ul class="mobile-menu__contact-list">
                 <li><span class="icon fa fa-envelope"></span>
-                    <a href="mailto:<?php echo SITE_EMAIL ?>"><span><?php echo SITE_EMAIL ?></span></a></li>
+                    <a href="mailto:<?php echo SITE_EMAIL ?>"><span><?php echo SITE_EMAIL ?></span></a>
+                </li>
                 <li><span class="icon fa fa-phone"></span><a href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a></li>
                 <li><span class="icon fa fa-phone"></span><a href="tel:<?php echo SITE_MOBILE2 ?>"><?php echo SITE_MOBILE2 ?></a></li>
             </ul>
 
             <ul class="mobile-menu__social">
-                <li><a href="https://www.instagram.com/vardhan_solar/" target="_blank" class="fa fa-instagram"></a></li>
-                <li><a href="https://www.facebook.com/vsolaroof" target="_blank" class="fa fa-facebook-f"></a></li>
-                <li><a href="https://twitter.com/SalesVardhan" target="_blank" class="fa fa-twitter"></a></li>
-                <li><a href="https://www.pinterest.com/vardhansolar/" target="_blank" class="fa fa-pinterest-p"></a></li>
+                <li><a href="<?php echo INSTAGRAM ?>" target="_blank" class="fa fa-instagram"></a></li>
+                <li><a href="<?php echo FACEBOOK ?>" target="_blank" class="fa fa-facebook-f"></a></li>
+                <li><a href="<?php echo TWITTER ?>" target="_blank" class="fa fa-twitter"></a></li>
+                <li><a href="<?php echo PINTEREST ?>" target="_blank" class="fa fa-pinterest-p"></a></li>
             </ul>
         </nav>
     </div>

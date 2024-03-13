@@ -89,7 +89,7 @@ include_once('common/head.php');
         </section>
         <section id="content_block_2" class="content_blocks_lists content_block_2">
             <section class="contact-map">
-                <iframe title="Vardhan Solar Gmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14877.447036944513!2d72.86954383712575!3d21.217498677544132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04f68ba68f2b1%3A0x9d312180efe85826!2sVardhan%20Solar!5e0!3m2!1sen!2sin!4v1657705583895!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe title="D-Light Solar Gmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14877.447036944513!2d72.86954383712575!3d21.217498677544132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04f68ba68f2b1%3A0x9d312180efe85826!2sVardhan%20Solar!5e0!3m2!1sen!2sin!4v1657705583895!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </section>
         </section>
     </div>

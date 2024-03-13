@@ -18,7 +18,7 @@
                             <div class="a-link text-uppercase">Solar Accessories</div>
                         </a>
                     </div>
-                    <div class="p-icon"> <a href="<?php echo BASE_PATH ?>solar-water-heater.php">
+                    <!-- <div class="p-icon"> <a href="<?php echo BASE_PATH ?>solar-water-heater.php">
                         <img class="lazy" width="90" height="90" src="<?php echo BASE_PATH ?>images/solar-water-heater.webp" />
                             <div class="a-link text-uppercase">Solar Water Heater</div>
                         </a>
@@ -27,7 +27,7 @@
                         <img class="lazy" width="90" height="90" src="<?php echo BASE_PATH ?>images/battery-inverter.webp" />
                             <div class="a-link text-uppercase">Battery Inverter</div>
                         </a>
-                    </div>
+                    </div> -->
                     <div class="p-icon"> <a href="<?php echo BASE_PATH ?>solar-street-light.php">
                         <img class="lazy" width="90" height="90" src="<?php echo BASE_PATH ?>images/solar-street-light.webp" />
                             <div class="a-link text-uppercase">Solar Street Light</div>

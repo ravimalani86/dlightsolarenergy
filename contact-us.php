@@ -30,12 +30,13 @@ include_once('common/head.php');
                                 <li>
                                     <span class="icon icon-phone"></span>
                                     Phone
-                                    <p><a href="tel:+91 95120 20937">+91 95120 20937</a></p>
+                                    <p><a href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a></p>
+                                    <p><a href="tel:<?php echo SITE_MOBILE2 ?>"><?php echo SITE_MOBILE2 ?></a></p>
                                 </li>
                                 <li>
                                     <span class="icon icon-email"></span>
                                     Email Address
-                                    <p><a href="/cdn-cgi/l/email-protection#bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp" target="_blank"><span class="__cf_email__" data-cfemail="234a4d454c63554251474b424d504c4f42510d404c4e">[email&#160;protected]</span></a></p>
+                                    <p><a href="mailto:<?php echo SITE_EMAIL ?>" target="_blank"><span><?php echo SITE_EMAIL ?></span></a></p>
                                 </li>
                             </ul>
                         </div>
@@ -52,16 +53,7 @@ include_once('common/head.php');
                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                             <ul></ul>
                                         </div>
-                                        <form action="/contact-us/#wpcf7-f5-p47-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-                                            <div style="display: none;">
-                                                <input type="hidden" name="_wpcf7" value="5" />
-                                                <input type="hidden" name="_wpcf7_version" value="5.6.4" />
-                                                <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-p47-o1" />
-                                                <input type="hidden" name="_wpcf7_container_post" value="47" />
-                                                <input type="hidden" name="_wpcf7_posted_data_hash" value />
-                                                <input type="hidden" name="_wpcf7_recaptcha_response" value />
-                                            </div>
+                                        <form action="<?php echo BASE_PATH ?>contact-us.php" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
                                             <div class="row clearfix">
                                                 <div class="form-group col-lg-6 col-md-6 col-sm-12">
                                                     <span class="wpcf7-form-control-wrap" data-name="FullName"><input type="text" name="FullName" value size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Full Name" /></span>

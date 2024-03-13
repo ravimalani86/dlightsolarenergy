@@ -24,7 +24,7 @@ include_once('common/head.php');
                                 <div class="solar-one__shape-one"></div>
                                 <div class="solar-one__shape-two"></div>
                                 <div class="solar-one__image">
-                                    <img class="lazy" decoding="async" width="500" height="532" src="<?php BASE_PATH ?>images/purpose.webp" alt="purpose" title="Purpose">
+                                    <img class="lazy" decoding="async" width="500" height="532" src="<?php echo BASE_PATH ?>images/purpose.webp" alt="purpose" title="Purpose">
                                 </div>
                             </div>
                         </div>

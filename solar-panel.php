@@ -18,7 +18,7 @@ include_once('common/head.php');
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="solar-inverter">
-                            <img class="lazy" src="<?php BASE_PATH ?>images/solar-panel.webp" alt="Solar-Panel" title="Solar Panel">
+                            <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-panel.webp" alt="Solar-Panel" title="Solar Panel">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 align-items">

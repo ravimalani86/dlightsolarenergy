@@ -14,12 +14,12 @@ include_once('common/head.php');
                     <div class="full-screen cover-background">
                         <div class="player-overlay"></div>
                         <div class="video-wrapper full-screen-width">
-                            <video autoplay muted loop poster="<?php BASE_PATH ?>images/gallery-part.webp" class="lazy html-video video-fluid" preload="auto">
-                                <source type="video/mp4" src="<?php BASE_PATH ?>video/solar.mp4">
+                            <video autoplay muted loop poster="<?php echo BASE_PATH ?>images/gallery-part.webp" class="lazy html-video video-fluid" preload="auto">
+                                <source type="video/mp4" src="<?php echo BASE_PATH ?>video/solar.mp4">
                             </video>
                             <h1 class="home-video-title wow fadeInUp animated">
                                 Renewable energy <br> Doesn’t cost the earth
-                                <br><a href="<?php BASE_PATH ?>contact-us/" class="theme-btn btn-style-two"><span class="txt">Order Now</span></a>
+                                <br><a href="<?php echo BASE_PATH ?>contact-us.php" class="theme-btn btn-style-two"><span class="txt">Order Now</span></a>
                             </h1>
                         </div>
                     </div>
@@ -76,13 +76,13 @@ include_once('common/head.php');
                                     <div class="energy-one__shape-four"></div>
                                     <div class="energy-one__color-three"></div>
                                     <div class="energy-one__image">
-                                        <img class="lazy" decoding="async" width="367" height="296" src="<?php BASE_PATH ?>images/energy.webp" alt="energy" title="energy">
+                                        <img class="lazy" decoding="async" width="367" height="296" src="<?php echo BASE_PATH ?>images/energy.webp" alt="energy" title="energy">
                                     </div>
                                     <div class="energy-one__image-two">
-                                        <img class="lazy" decoding="async" width="261" height="305" src="<?php BASE_PATH ?>images/energy-part.webp" alt="energy-part" title="energy-part">
+                                        <img class="lazy" decoding="async" width="261" height="305" src="<?php echo BASE_PATH ?>images/energy-part.webp" alt="energy-part" title="energy-part">
                                     </div>
                                     <div class="energy-one__image-three">
-                                        <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/energy-solor.webp" alt="energy-solor" title="energy-solor">
+                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/energy-solor.webp" alt="energy-solor" title="energy-solor">
                                     </div>
                                 </div>
                             </div>
@@ -103,9 +103,9 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php BASE_PATH ?>images/solar-pv.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php BASE_PATH ?>product/solar-panel/"> Solar Panels </a></h3>
-                                    <a href="<?php BASE_PATH ?>product/solar-panel/" class="service-one__read-more">
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-pv.webp" />
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/solar-panel/"> Solar Panels </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>product/solar-panel/" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -113,9 +113,9 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php BASE_PATH ?>images/on-grid-inverter.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php BASE_PATH ?>product/on-grid-inverter/"> On-grid Inverter </a></h3>
-                                    <a href="<?php BASE_PATH ?>product/on-grid-inverter/" class="service-one__read-more">
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/on-grid-inverter.webp" />
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/on-grid-inverter/"> On-grid Inverter </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>product/on-grid-inverter/" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -123,9 +123,9 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php BASE_PATH ?>images/solar-accessories.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php BASE_PATH ?>product/solar-accessories/"> Solar Accessories </a></h3>
-                                    <a href="<?php BASE_PATH ?>product/solar-accessories/" class="service-one__read-more">
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-accessories.webp" />
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/solar-accessories/"> Solar Accessories </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>product/solar-accessories/" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -133,9 +133,9 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php BASE_PATH ?>images/solar-water-heater.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php BASE_PATH ?>product/solar-water-heater/"> Solar Water Heater </a></h3>
-                                    <a href="<?php BASE_PATH ?>product/solar-water-heater/" class="service-one__read-more">
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-water-heater.webp" />
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/solar-water-heater/"> Solar Water Heater </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>product/solar-water-heater/" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -143,9 +143,9 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php BASE_PATH ?>images/battery-inverter.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php BASE_PATH ?>product/battery-inverter/"> Battery Inverter </a></h3>
-                                    <a href="<?php BASE_PATH ?>product/battery-inverter/" class="service-one__read-more">
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/battery-inverter.webp" />
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/battery-inverter/"> Battery Inverter </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>product/battery-inverter/" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -153,9 +153,9 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php BASE_PATH ?>images/solar-street-light.webp" />
-                                    <h3 class="service-one__title text-uppercase"><a href="<?php BASE_PATH ?>product/solar-street-light/"> Solar Street Light </a></h3>
-                                    <a href="<?php BASE_PATH ?>product/solar-street-light/" class="service-one__read-more">
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-street-light.webp" />
+                                    <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>product/solar-street-light/"> Solar Street Light </a></h3>
+                                    <a href="<?php echo BASE_PATH ?>product/solar-street-light/" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
                                     </a>
                                 </div>
@@ -177,7 +177,7 @@ include_once('common/head.php');
                             <div class="service-three__single col-lg-4 col-md-6 col-sm-12">
                                 <div class="service-three__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <div class="service-three__image">
-                                        <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/service.webp" alt="service" title="service">
+                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/service.webp" alt="service" title="service">
                                     </div>
                                     <div class="service-three__content">
                                         <div class="service-three__content-upper">
@@ -196,7 +196,7 @@ include_once('common/head.php');
                             <div class="service-three__single col-lg-4 col-md-6 col-sm-12">
                                 <div class="service-three__single-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <div class="service-three__image">
-                                        <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/service-section.webp" alt="service-section" title="service-section">
+                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/service-section.webp" alt="service-section" title="service-section">
                                     </div>
                                     <div class="service-three__content">
                                         <div class="service-three__content-upper">
@@ -214,7 +214,7 @@ include_once('common/head.php');
                             <div class="service-three__single col-lg-4 col-md-6 col-sm-12">
                                 <div class="service-three__single-inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <div class="service-three__image">
-                                        <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/service-other-section.webp" alt="service-section" alt="Service Section" />
+                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/service-other-section.webp" alt="service-section" alt="Service Section" />
                                     </div>
                                     <div class="service-three__content">
                                         <div class="service-three__content-upper">
@@ -351,7 +351,7 @@ include_once('common/head.php');
                                     <h3 class="cta-one__title">Helps you to plug into the most powerful &#038; endless energy available&#8230;
                                     </h3>
                                     <div class="cta-one__btn-box">
-                                        <a class="btn-style-three theme-btn" href="<?php BASE_PATH ?>contact-us/"><span class="txt">Order Now</span></a>
+                                        <a class="btn-style-three theme-btn" href="<?php echo BASE_PATH ?>contact-us.php"><span class="txt">Order Now</span></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-12 col-sm-12">
@@ -375,7 +375,7 @@ include_once('common/head.php');
                                 <div class="col-lg-4">
                                     <div class="project-one__single">
                                         <div class="project-one__image">
-                                            <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/gallery.webp" alt="gallery" title="gallery">
+                                            <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery.webp" alt="gallery" title="gallery">
                                             <div class="project-one__overlay-box">
                                                 <h3 class="project-one__title">Leading Solar Panel manufacturer and Exporter in India</h3>
                                             </div>
@@ -385,7 +385,7 @@ include_once('common/head.php');
                                 <div class="col-lg-4">
                                     <div class="project-one__single">
                                         <div class="project-one__image">
-                                            <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/gallery-1-1-2.webp" alt="gallery" title="Gallery" />
+                                            <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-1-1-2.webp" alt="gallery" title="Gallery" />
                                             <div class="project-one__overlay-box">
                                                 <h3 class="project-one__title">Government of India Announced Solar and other&#8230;</h3>
                                             </div>
@@ -395,7 +395,7 @@ include_once('common/head.php');
                                 <div class="col-lg-4">
                                     <div class="project-one__single">
                                         <div class="project-one__image">
-                                            <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/gallery-other-section.webp" alt="gallery-section" tilte="Galley Section" />
+                                            <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-other-section.webp" alt="gallery-section" tilte="Galley Section" />
                                             <div class="project-one__overlay-box">
                                                 <h3 class="project-one__title">Commercial Project Installed by Vardhan Solar</h3>
                                             </div>
@@ -419,7 +419,7 @@ include_once('common/head.php');
                             <div class="news-two__single col-lg-4 col-md-6 col-sm-12">
                                 <div class="news-two__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <div class="news-two__img">
-                                        <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/gallery-part.webp" alt="gallery part" title="Gallery Part">
+                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-part.webp" alt="gallery part" title="Gallery Part">
                                         <div class="news-two__category">Solar Power</div>
                                     </div>
                                     <div class="news-two__content">
@@ -441,7 +441,7 @@ include_once('common/head.php');
                             <div class="news-two__single col-lg-4 col-md-6 col-sm-12">
                                 <div class="news-two__single-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <div class="news-two__img">
-                                        <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/gallery-part.webp" alt="gallery-part" title="Gallery Part">
+                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-part.webp" alt="gallery-part" title="Gallery Part">
                                         <div class="news-two__category">Solar Power</div>
                                     </div>
                                     <div class="news-two__content">
@@ -463,7 +463,7 @@ include_once('common/head.php');
                             <div class="news-two__single col-lg-4 col-md-6 col-sm-12">
                                 <div class="news-two__single-inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <div class="news-two__img">
-                                        <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/gallery-part.webp" alt="gallery-part" title="Gallery Part">
+                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-part.webp" alt="gallery-part" title="Gallery Part">
                                         <div class="news-two__category">Solar Power</div>
                                     </div>
                                     <div class="news-two__content">
@@ -523,7 +523,7 @@ include_once('common/head.php');
                                 <div class="testimonial-two__single-inner">
                                     <div class="testimonial-two__author-info">
                                         <div class="testimonial-two__author-image">
-                                            <img class="lazy" src="<?php BASE_PATH ?><?php BASE_PATH ?>images/ashvin-rajani.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/ashvin-rajani.webp" alt />
                                         </div>
                                         <h3 class="testimonial-two__title">Dr. Ashvin Rajanib</h3>
                                         <div class="testimonial-two__designation">Doctor</div>
@@ -535,7 +535,7 @@ include_once('common/head.php');
                                 <div class="testimonial-two__single-inner">
                                     <div class="testimonial-two__author-info">
                                         <div class="testimonial-two__author-image">
-                                            <img class="lazy" src="<?php BASE_PATH ?><?php BASE_PATH ?>images/rajesh.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/rajesh.webp" alt />
                                         </div>
                                         <h3 class="testimonial-two__title">Mr. Rajesh(Businessman)</h3>
                                         <div class="testimonial-two__designation">Ramdev Gems</div>
@@ -547,7 +547,7 @@ include_once('common/head.php');
                                 <div class="testimonial-two__single-inner">
                                     <div class="testimonial-two__author-info">
                                         <div class="testimonial-two__author-image">
-                                            <img class="lazy" src="<?php BASE_PATH ?><?php BASE_PATH ?>images/babubhai-rabadiya.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/babubhai-rabadiya.webp" alt />
                                         </div>
                                         <h3 class="testimonial-two__title">Babubhai Rabadiya</h3>
                                         <div class="testimonial-two__designation">Advocate</div>
@@ -666,22 +666,22 @@ include_once('common/head.php');
 							}">
                                     <div>
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            <img class="lazy" src="<?php BASE_PATH ?><?php BASE_PATH ?>images/msme.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/msme.webp" alt />
                                         </div>
                                     </div>
                                     <div>
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            <img class="lazy" src="<?php BASE_PATH ?><?php BASE_PATH ?>images/sura.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/sura.webp" alt />
                                         </div>
                                     </div>
                                     <div>
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            <img class="lazy" src="<?php BASE_PATH ?><?php BASE_PATH ?>images/make-in-india.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/make-in-india.webp" alt />
                                         </div>
                                     </div>
                                     <div>
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                            <img class="lazy" src="<?php BASE_PATH ?><?php BASE_PATH ?>images/geda.webp" alt />
+                                            <img class="lazy" src="<?php echo BASE_PATH ?><?php echo BASE_PATH ?>images/geda.webp" alt />
                                         </div>
                                     </div>
                                 </div>

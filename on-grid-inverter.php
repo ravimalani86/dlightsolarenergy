@@ -18,7 +18,7 @@ include_once('common/head.php');
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="solar-inverter">
-                            <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/vsole-inv.webp" alt="vsole-inv" title="vsole-inv">
+                            <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/vsole-inv.webp" alt="vsole-inv" title="vsole-inv">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 align-items">
@@ -69,7 +69,7 @@ include_once('common/head.php');
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="solar-inverter">
-                            <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/Inverter-Three-Phase-Inverter.webp" alt="Inverter-Three-Phase-Inverter" title="Inverter Three Phase Inverter">
+                            <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/Inverter-Three-Phase-Inverter.webp" alt="Inverter-Three-Phase-Inverter" title="Inverter Three Phase Inverter">
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ include_once('common/head.php');
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="solar-inverter">
-                            <img class="lazy" decoding="async" src="<?php BASE_PATH ?>images/Inverter-Hybrid.webp" alt="Inverter-Hybrid" title="Inverter Hybrid">
+                            <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/Inverter-Hybrid.webp" alt="Inverter-Hybrid" title="Inverter Hybrid">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 align-items">

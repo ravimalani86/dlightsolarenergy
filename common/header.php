@@ -5,8 +5,8 @@
             <div class="top-header-bar pull-right fa-pull-right clearfix">
                 <ul class="main-header__info">
                     <li>
-                        <span class="icon icon-email"></span>
                         <a href="mailto:<?php echo SITE_EMAIL ?>">
+                            <span class="icon icon-email"></span>
                             <span><?php echo SITE_EMAIL ?></span>
                         </a>
                     </li>

@@ -35,12 +35,10 @@ include_once('common/head.php');
                                 <div class="section-title">
                                     <h2 class="section-title__title">About D-Light Solar</h2>
                                 </div>
-                                <p class="solar-one__text">We’re a reliable energy partner to world wide businesses big and
-                                    small. Benefit from our experience, expertise and ment to find energy savings designed
-                                    specifically for your business. See how we can help a business like yours today.
+                                <p class="solar-one__text">We, D-Light Solar Energy LLP at Mota Varachha in Surat, Gujarat, are a leading dealers of solar energy systems and other products. We design and manufacture high quality, aesthetically pleasing devices aimed at enhancing your outdoor, off-grid experience. We deal in environmentally safe products such as solar roofs, solar sheets, solar geyser etc.
                                 </p>
-                                <p class="solar-one__text-two">Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                                    qui officia deserunt mollit anim
+                                <p class="solar-one__text-two">
+                                    Our aim is to provide the best products to our customers through excellent service.
                                 </p>
                                 <div class="row clearfix">
                                     <div class="column col-lg-12 col-md-12 col-sm-12">
@@ -49,7 +47,8 @@ include_once('common/head.php');
                                             <div class="energy-one__phone-inner">
                                                 <span class="energy-one__phone-icon icon-phone"></span>
                                                 The Future of Solar Energy<br>
-                                                <a class="energy-one__phone-number" href="tel:+91 95120 20937">+91 95120 20937</a>
+                                                <a class="energy-one__phone-number" href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a> <br>
+                                                <a class="energy-one__phone-number" href="tel:<?php echo SITE_MOBILE2 ?>"><?php echo SITE_MOBILE2 ?></a>
                                             </div>
                                         </div>
 
@@ -60,6 +59,26 @@ include_once('common/head.php');
                     </div>
                 </div>
             </section>
+        </section>
+        <section class="style-two pt-0">
+            <div class="pt-0">
+                <div class="container mt-20">
+                    <div class="row clearfix">
+                        <div class="col-lg-6 col-md-12 col-sm-12">
+                            <div class="owner__image">
+                                <img class="lazy loaded" decoding="async" src="<?php echo BASE_PATH ?>images/owner.jpg" alt="owner-profile" title="owner-profile" data-was-processed="true">
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-sm-12 align-items">
+                            <div class="">
+                                <h2 class="faq-two__title owner__title">D-Light Solar Energy Owner</h2>
+                                <h2 class="purpose-one__title-two owner__name">Mr.Pratik Dhameliya</h2>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
         <section id="content_block_2" class="content_blocks_lists content_block_2">
             <section class="counter-one">

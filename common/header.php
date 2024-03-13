@@ -5,8 +5,9 @@
             <div class="top-header-bar pull-right fa-pull-right clearfix">
                 <ul class="main-header__info">
                     <li>
+                        <span class="icon icon-email"></span>
                         <a href="mailto:<?php echo SITE_EMAIL ?>">
-                            <span class="icon icon-email"></span><span><?php echo SITE_EMAIL ?></span>
+                            <span><?php echo SITE_EMAIL ?></span>
                         </a>
                     </li>
                     <li><a href="tel:<?php echo SITE_MOBILE1 ?>"><span class="icon icon-phone"></span><?php echo SITE_MOBILE1 ?></a></li>
@@ -63,7 +64,7 @@
                                         </ul>
                                     </li>
                                     <li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="<?php echo BASE_PATH ?>epc.php">EPC</a></li>
-                                    <li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="<?php echo BASE_PATH ?>download.php">Download</a></li>
+                                    <!-- <li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="<?php echo BASE_PATH ?>download.php">Download</a></li> -->
                                     <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="<?php echo BASE_PATH ?>contact-us.php">Contact Us</a></li>
                                 </ul>
                             </div>

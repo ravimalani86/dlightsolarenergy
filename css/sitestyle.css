@@ -6,19 +6,19 @@ textarea {
 
 .list-style-one li a:hover,
 .scroll-to-top:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .btn-style-one,
 .btn-style-two {
-    font-family: var(--vardhan-dmsans-font)
+    font-family: var(--dlight-dmsans-font)
 }
 
 .main-menu__navigation>li>ul>li>a,
 .main-menu__navigation>li>ul>li>ul>li>a {
     padding: 12px 18px;
     line-height: 24px;
-    color: var(--vardhan-black);
+    color: var(--dlight-black);
     font-weight: 600
 }
 
@@ -48,128 +48,128 @@ textarea {
 }
 
 :root {
-    --vardhan-smooch-font: "Smooch Sans", sans-serif;
-    --vardhan-catamaran-font: "Catamaran", sans-serif;
-    --vardhan-base: #f9ba38;
-    --vardhan-base-rgb: 252, 143, 20;
-    --vardhan-primary: #f9ba38;
-    --vardhan-primary-rgb: 42, 182, 132;
-    --vardhan-second-color: #1f477e;
-    --vardhan-second-color-rgb: 26, 73, 135;
-    --vardhan-third-color: #080d1c;
-    --vardhan-third-color-rgb: 8, 13, 28;
-    --vardhan-fourth-color: #f7f5f5;
-    --vardhan-fourth-color-rgb: 247, 245, 245;
-    --vardhan-fifth-color: #4d4b57;
-    --vardhan-fifth-color-rgb: 77, 75, 87;
-    --vardhan-six-color: #03050c;
-    --vardhan-six-color-rgb: 3, 5, 12;
-    --vardhan-seven-color: #fff1e2;
-    --vardhan-seven-color-rgb: 255, 241, 226;
-    --vardhan-eight-color: #03060d;
-    --vardhan-eight-color-rgb: 3, 6, 13;
-    --vardhan-nine-color: #f8fafe;
-    --vardhan-nine-color-rgb: 248, 250, 254;
-    --vardhan-ten-color: #eaedf3;
-    --vardhan-ten-color-rgb: 234, 237, 243;
-    --vardhan-eleven-color: #dae6f6;
-    --vardhan-eleven-color-rgb: 218, 230, 246;
-    --vardhan-twelve-color: #f2f8ff;
-    --vardhan-twelve-color-rgb: 242, 248, 255;
-    --vardhan-thirteen-color: #f2f5fa;
-    --vardhan-thirteen-color-rgb: 242, 245, 250;
-    --vardhan-fourteen-color: #232323;
-    --vardhan-fourteen-color-rgb: 35, 35, 35;
-    --vardhan-fifteen-color: #eff4f2;
-    --vardhan-fifteen-color-rgb: 239, 244, 242;
-    --vardhan-sixteen-color: #ecf9f5;
-    --vardhan-sixteen-color-rgb: 236, 249, 245;
-    --vardhan-seventeen-color: #dae3e0;
-    --vardhan-seventeen-color-rgb: 218, 227, 224;
-    --vardhan-eightteen-color: #fdfaf6;
-    --vardhan-eightteen-color-rgb: 253, 250, 246;
-    --vardhan-nineteen-color: #fbb02d;
-    --vardhan-nineteen-color-rgb: 251, 176, 45;
-    --vardhan-twenty-color: #1f477e;
-    --vardhan-twenty-color-rgb: 53, 93, 77;
-    --vardhan-twentyone-color: #2b2b2b;
-    --vardhan-twentyone-color-rgb: 43, 43, 43;
-    --vardhan-twentytwo-color: #e8e7e6;
-    --vardhan-twentytwo-color-rgb: 232, 231, 230;
-    --vardhan-twentythree-color: #ececec;
-    --vardhan-twentythree-color-rgb: 236, 236, 236;
-    --vardhan-twentyfour-color: #f5f3f3;
-    --vardhan-twentyfour-color-rgb: 245, 243, 243;
-    --vardhan-twentyfive-color: #f8f8f8;
-    --vardhan-twentyfive-color-rgb: 248, 248, 248;
-    --vardhan-twentysix-color: #2e313d;
-    --vardhan-twentysix-color-rgb: 46, 49, 61;
-    --vardhan-twentyseven-color: #111e43;
-    --vardhan-twentyseven-color-rgb: 17, 30, 67;
-    --vardhan-twentyeight-color: #17161a;
-    --vardhan-twentyeight-color-rgb: 23, 22, 26;
-    --vardhan-twentynine-color: #2a282e;
-    --vardhan-twentynine-color-rgb: 42, 40, 46;
-    --vardhan-thirty-color: #1c1b1e;
-    --vardhan-thirty-color-rgb: 28, 27, 30;
-    --vardhan-thirtyone-color: #1d1c21;
-    --vardhan-thirtyone-color-rgb: 29, 28, 33;
-    --vardhan-thirtytwo-color: #e8e8e8;
-    --vardhan-thirtytwo-color-rgb: 232, 232, 232;
-    --vardhan-thirtythree-color: #f2f5f4;
-    --vardhan-thirtythree-color-rgb: 242, 245, 244;
-    --vardhan-thirtyfour-color: #ece6e0;
-    --vardhan-thirtyfour-color-rgb: 236, 230, 224;
-    --vardhan-thirtyfive-color: #edf4f2;
-    --vardhan-thirtyfive-color-rgb: 237, 244, 242;
-    --vardhan-thirtysix-color: #120e1c;
-    --vardhan-thirtysix-color-rgb: 18, 24, 28;
-    --vardhan-thirtyseven-color: #f5f5f5;
-    --vardhan-thirtyseven-color-rgb: 245, 245, 245;
-    --vardhan-thirtyeight-color: #131212;
-    --vardhan-thirtyeight-color-rgb: 19, 18, 19;
-    --vardhan-thirtynine-color: #dedede;
-    --vardhan-thirtynine-color-rgb: 222, 222, 222;
-    --vardhan-fourty-color: #cbcdd4;
-    --vardhan-fourty-color-rgb: 203, 205, 212;
-    --vardhan-fourtyone-color: #7adbb8;
-    --vardhan-fourtyone-color-rgb: 122, 219, 184;
-    --vardhan-fourtytwo-color: #f9f8f4;
-    --vardhan-fourtytwo-color-rgb: 249, 248, 244;
-    --vardhan-fourtythree-color: #f7e5c7;
-    --vardhan-fourtythree-color-rgb: 247, 229, 199;
-    --vardhan-fourtyfour-color: #f0faf6;
-    --vardhan-fourtyfour-color-rgb: 240, 250, 246;
-    --vardhan-fourtyfive-color: #f1f1f1;
-    --vardhan-fourtyfive-color-rgb: 241, 241, 241;
-    --vardhan-fourtysix-color: #ededed;
-    --vardhan-fourtysix-color-rgb: 237, 237, 237;
-    --vardhan-fourtyseven-color: #fbf4eb;
-    --vardhan-fourtyseven-color-rgb: 251, 244, 235;
-    --vardhan-fourtyeight-color: #efece8;
-    --vardhan-fourtyeight-color-rgb: 239, 236, 232;
-    --vardhan-fourtynine-color: #d8e0dd;
-    --vardhan-fourtynine-color-rgb: 216, 224, 221;
-    --vardhan-fifty-color: #e7e7eb;
-    --vardhan-fifty-color-rgb: 231, 231, 235;
-    --vardhan-fiftyone-color: #090a0a;
-    --vardhan-fiftyone-color-rgb: 9, 10, 10;
-    --vardhan-fiftytwo-color: #faf2e8;
-    --vardhan-fiftytwo-color-rgb: 250, 242, 232;
-    --vardhan-fiftythree-color: #cee0d9;
-    --vardhan-fiftythree-color-rgb: 206, 224, 217;
-    --vardhan-fiftyfour-color: #f8f7f5;
-    --vardhan-fiftyfour-color-rgb: 248, 247, 245;
-    --vardhan-fiftyfive-color: #161616;
-    --vardhan-fiftyfive-color-rgb: 22, 22, 22;
-    --vardhan-fiftysix-color: #f3fafc;
-    --vardhan-fiftysix-color-rgb: 243, 250, 252;
-    --vardhan-fiftyseven-color: #000108;
-    --vardhan-fiftyseven-color-rgb: 0, 1, 8;
-    --vardhan-white: #fff;
-    --vardhan-white-rgb: 255, 255, 255;
-    --vardhan-black: #000;
-    --vardhan-black-rgb: 0, 0, 0;
+    --dlight-smooch-font: "Smooch Sans", sans-serif;
+    --dlight-catamaran-font: "Catamaran", sans-serif;
+    --dlight-base: #21a54a;
+    --dlight-base-rgb: 252, 143, 20;
+    --dlight-primary: #46934a;
+    --dlight-primary-rgb: 42, 182, 132;
+    --dlight-second-color: #1f477e;
+    --dlight-second-color-rgb: 26, 73, 135;
+    --dlight-third-color: #080d1c;
+    --dlight-third-color-rgb: 8, 13, 28;
+    --dlight-fourth-color: #f7f5f5;
+    --dlight-fourth-color-rgb: 247, 245, 245;
+    --dlight-fifth-color: #4d4b57;
+    --dlight-fifth-color-rgb: 77, 75, 87;
+    --dlight-six-color: #03050c;
+    --dlight-six-color-rgb: 3, 5, 12;
+    --dlight-seven-color: #fff1e2;
+    --dlight-seven-color-rgb: 255, 241, 226;
+    --dlight-eight-color: #03060d;
+    --dlight-eight-color-rgb: 3, 6, 13;
+    --dlight-nine-color: #f8fafe;
+    --dlight-nine-color-rgb: 248, 250, 254;
+    --dlight-ten-color: #eaedf3;
+    --dlight-ten-color-rgb: 234, 237, 243;
+    --dlight-eleven-color: #dae6f6;
+    --dlight-eleven-color-rgb: 218, 230, 246;
+    --dlight-twelve-color: #f2f8ff;
+    --dlight-twelve-color-rgb: 242, 248, 255;
+    --dlight-thirteen-color: #f2f5fa;
+    --dlight-thirteen-color-rgb: 242, 245, 250;
+    --dlight-fourteen-color: #232323;
+    --dlight-fourteen-color-rgb: 35, 35, 35;
+    --dlight-fifteen-color: #eff4f2;
+    --dlight-fifteen-color-rgb: 239, 244, 242;
+    --dlight-sixteen-color: #ecf9f5;
+    --dlight-sixteen-color-rgb: 236, 249, 245;
+    --dlight-seventeen-color: #dae3e0;
+    --dlight-seventeen-color-rgb: 218, 227, 224;
+    --dlight-eightteen-color: #fdfaf6;
+    --dlight-eightteen-color-rgb: 253, 250, 246;
+    --dlight-nineteen-color: #e77e00;
+    --dlight-nineteen-color-rgb: 251, 176, 45;
+    --dlight-twenty-color: #1f477e;
+    --dlight-twenty-color-rgb: 53, 93, 77;
+    --dlight-twentyone-color: #2b2b2b;
+    --dlight-twentyone-color-rgb: 43, 43, 43;
+    --dlight-twentytwo-color: #e8e7e6;
+    --dlight-twentytwo-color-rgb: 232, 231, 230;
+    --dlight-twentythree-color: #ececec;
+    --dlight-twentythree-color-rgb: 236, 236, 236;
+    --dlight-twentyfour-color: #f5f3f3;
+    --dlight-twentyfour-color-rgb: 245, 243, 243;
+    --dlight-twentyfive-color: #f8f8f8;
+    --dlight-twentyfive-color-rgb: 248, 248, 248;
+    --dlight-twentysix-color: #2e313d;
+    --dlight-twentysix-color-rgb: 46, 49, 61;
+    --dlight-twentyseven-color: #111e43;
+    --dlight-twentyseven-color-rgb: 17, 30, 67;
+    --dlight-twentyeight-color: #17161a;
+    --dlight-twentyeight-color-rgb: 23, 22, 26;
+    --dlight-twentynine-color: #2a282e;
+    --dlight-twentynine-color-rgb: 42, 40, 46;
+    --dlight-thirty-color: #1c1b1e;
+    --dlight-thirty-color-rgb: 28, 27, 30;
+    --dlight-thirtyone-color: #1d1c21;
+    --dlight-thirtyone-color-rgb: 29, 28, 33;
+    --dlight-thirtytwo-color: #e8e8e8;
+    --dlight-thirtytwo-color-rgb: 232, 232, 232;
+    --dlight-thirtythree-color: #f2f5f4;
+    --dlight-thirtythree-color-rgb: 242, 245, 244;
+    --dlight-thirtyfour-color: #ece6e0;
+    --dlight-thirtyfour-color-rgb: 236, 230, 224;
+    --dlight-thirtyfive-color: #edf4f2;
+    --dlight-thirtyfive-color-rgb: 237, 244, 242;
+    --dlight-thirtysix-color: #120e1c;
+    --dlight-thirtysix-color-rgb: 18, 24, 28;
+    --dlight-thirtyseven-color: #f5f5f5;
+    --dlight-thirtyseven-color-rgb: 245, 245, 245;
+    --dlight-thirtyeight-color: #131212;
+    --dlight-thirtyeight-color-rgb: 19, 18, 19;
+    --dlight-thirtynine-color: #dedede;
+    --dlight-thirtynine-color-rgb: 222, 222, 222;
+    --dlight-fourty-color: #cbcdd4;
+    --dlight-fourty-color-rgb: 203, 205, 212;
+    --dlight-fourtyone-color: #7adbb8;
+    --dlight-fourtyone-color-rgb: 122, 219, 184;
+    --dlight-fourtytwo-color: #f9f8f4;
+    --dlight-fourtytwo-color-rgb: 249, 248, 244;
+    --dlight-fourtythree-color: #1f6b3763;
+    --dlight-fourtythree-color-rgb: 247, 229, 199;
+    --dlight-fourtyfour-color: #f0faf6;
+    --dlight-fourtyfour-color-rgb: 240, 250, 246;
+    --dlight-fourtyfive-color: #f1f1f1;
+    --dlight-fourtyfive-color-rgb: 241, 241, 241;
+    --dlight-fourtysix-color: #ededed;
+    --dlight-fourtysix-color-rgb: 237, 237, 237;
+    --dlight-fourtyseven-color: #fbf4eb;
+    --dlight-fourtyseven-color-rgb: 251, 244, 235;
+    --dlight-fourtyeight-color: #efece8;
+    --dlight-fourtyeight-color-rgb: 239, 236, 232;
+    --dlight-fourtynine-color: #d8e0dd;
+    --dlight-fourtynine-color-rgb: 216, 224, 221;
+    --dlight-fifty-color: #e7e7eb;
+    --dlight-fifty-color-rgb: 231, 231, 235;
+    --dlight-fiftyone-color: #090a0a;
+    --dlight-fiftyone-color-rgb: 9, 10, 10;
+    --dlight-fiftytwo-color: #faf2e8;
+    --dlight-fiftytwo-color-rgb: 250, 242, 232;
+    --dlight-fiftythree-color: #cee0d9;
+    --dlight-fiftythree-color-rgb: 206, 224, 217;
+    --dlight-fiftyfour-color: #f8f7f5;
+    --dlight-fiftyfour-color-rgb: 248, 247, 245;
+    --dlight-fiftyfive-color: #161616;
+    --dlight-fiftyfive-color-rgb: 22, 22, 22;
+    --dlight-fiftysix-color: #f3fafc;
+    --dlight-fiftysix-color-rgb: 243, 250, 252;
+    --dlight-fiftyseven-color: #000108;
+    --dlight-fiftyseven-color-rgb: 0, 1, 8;
+    --dlight-white: #fff;
+    --dlight-white-rgb: 255, 255, 255;
+    --dlight-black: #000;
+    --dlight-black-rgb: 0, 0, 0;
     --heading-color: #0c0d24;
     --heading-color-rgb: 12, 13, 36;
     --text-color: #01050c;
@@ -438,7 +438,7 @@ textarea {
 }
 
 body {
-    font-family: var(--vardhan-catamaran-font);
+    font-family: var(--dlight-catamaran-font);
     font-size: 14px;
     color: var(--text-color);
     line-height: 1.6em;
@@ -495,7 +495,7 @@ h6 {
     position: relative;
     background: 0 0;
     color: var(--heading-color);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .owl-with-shadow .owl-stage-outer {
@@ -596,7 +596,7 @@ ul {
 .list-style-one li .icon,
 .list-style-one li a,
 .scroll-to-top {
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .scroll-to-top {
@@ -605,7 +605,7 @@ ul {
     right: 15px;
     width: 40px;
     height: 40px;
-    background-color: var(--vardhan-base);
+    background-color: var(--dlight-base);
     font-size: var(--font-16);
     text-transform: uppercase;
     line-height: 38px;
@@ -617,7 +617,7 @@ ul {
 }
 
 .scroll-to-top:hover {
-    background: var(--vardhan-white)
+    background: var(--dlight-white)
 }
 
 .btn-style-one:before,
@@ -625,7 +625,7 @@ ul {
     content: "";
     right: -25px;
     bottom: -18px;
-    background: var(--vardhan-base)
+    background: var(--dlight-base)
 }
 
 .list-style-one,
@@ -667,7 +667,7 @@ ul {
 
 .main-header__contact-list li h5 a:hover,
 .main-header__info li .icon {
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .btn-style-one {
@@ -679,7 +679,7 @@ ul {
     display: inline-grid;
     font-size: var(--font-18);
     text-transform: capitalize;
-    background-color: var(--vardhan-third-color)
+    background-color: var(--dlight-third-color)
 }
 
 .btn-style-three,
@@ -719,7 +719,7 @@ ul {
 }
 
 .btn-style-one:hover {
-    color: var(--vardhan-white) !important
+    color: var(--dlight-white) !important
 }
 
 .btn-style-three:hover,
@@ -728,7 +728,7 @@ ul {
 .section-title.light .section-title__tagline,
 .section-title.light .section-title__text,
 .section-title.light .section-title__title {
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .btn-style-one:hover:before,
@@ -743,7 +743,7 @@ ul {
 
 .btn-style-two {
     position: relative;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .btn-style-two .txt {
@@ -760,19 +760,19 @@ ul {
     bottom: -18px;
     z-index: 1;
     opacity: .15;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .btn-style-three {
     position: relative;
-    color: var(--vardhan-twentyone-color);
-    font-family: var(--vardhan-catamaran-font);
-    background-color: var(--vardhan-white)
+    color: var(--dlight-twentyone-color);
+    font-family: var(--dlight-catamaran-font);
+    background-color: var(--dlight-white)
 }
 
 .btn-style-three:before,
 .ui-menu-item:hover {
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .btn-style-three:before {
@@ -794,7 +794,7 @@ ul {
 
 .section-title__tagline,
 .section-title__title span {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 img {
@@ -822,7 +822,7 @@ img {
     line-height: 34px;
     font-size: var(--font-20);
     margin-top: 55px;
-    color: var(--vardhan-fourteen-color)
+    color: var(--dlight-fourteen-color)
 }
 
 .section-title__title {
@@ -830,7 +830,7 @@ img {
     font-weight: 700;
     line-height: 75px;
     font-size: var(--font-75);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-top: var(--margin-top-10)
 }
 
@@ -847,9 +847,9 @@ img {
     line-height: 32px;
     border: none;
     border-radius: 2px;
-    background: var(--vardhan-white);
-    color: var(--vardhan-thirtyeight-color);
-    border: 1px solid var(--vardhan-thirtynine-color)
+    background: var(--dlight-white);
+    color: var(--dlight-thirtyeight-color);
+    border: 1px solid var(--dlight-thirtynine-color)
 }
 
 .form-group .ui-button .ui-icon {
@@ -889,8 +889,8 @@ img {
 .project-one .owl-dots .owl-dot:hover,
 .ui-state-active,
 .ui-widget-content .ui-state-active {
-    background-color: var(--vardhan-base);
-    border-color: var(--vardhan-base)
+    background-color: var(--dlight-base);
+    border-color: var(--dlight-base)
 }
 
 .main-menu__navigation>li>ul>li:last-child,
@@ -929,7 +929,7 @@ img {
     position: relative;
     float: left;
     font-size: var(--font-14);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-right: var(--margin-right-30)
 }
 
@@ -968,14 +968,14 @@ img {
 }
 
 .main-header__info li a:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .main-header__top-text {
     font-weight: 400;
     float: left;
     padding: 10px 0;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-right: var(--margin-right-20)
 }
 
@@ -987,9 +987,9 @@ img {
 
 .main-header__top-estimate a {
     display: inline-block;
-    color: var(--vardhan-base);
+    color: var(--dlight-base);
     text-transform: uppercase;
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     padding: 7px 16px 5px;
     font-weight: 500;
     overflow: hidden;
@@ -999,7 +999,7 @@ img {
 }
 
 .main-header__top-estimate a:hover {
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .main-header__cart-box,
@@ -1036,7 +1036,7 @@ img {
     border: 0;
     background: 0 0;
     font-size: var(--font-15);
-    color: var(--vardhan-fifth-color)
+    color: var(--dlight-fifth-color)
 }
 
 .header-top__flag-icon {
@@ -1073,16 +1073,16 @@ img {
     display: block;
     padding: 8px 14px;
     font-size: var(--font-14);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     transition: .3s;
-    background-color: var(--vardhan-fifth-color)
+    background-color: var(--dlight-fifth-color)
 }
 
 .main-header__cart-btns li a,
 .main-header__language-list li a:hover,
 .product-menu div.active,
 .product-menu div:hover {
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .main-header__cart-box {
@@ -1096,7 +1096,7 @@ img {
 
 .main-header__cart-btns li a:hover,
 .main-header__total-cart {
-    background-color: var(--vardhan-primary)
+    background-color: var(--dlight-primary)
 }
 
 .main-header__cart-box button {
@@ -1114,7 +1114,7 @@ img {
     top: -8px;
     width: 18px;
     height: 18px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-10);
     font-weight: 700;
     border-radius: 50%;
@@ -1266,7 +1266,7 @@ img {
     padding: 10px 20px 8px;
     border-radius: 0;
     display: inline-block;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     text-transform: uppercase;
     transition: .3s;
     -webkit-transition: .3s;
@@ -1283,7 +1283,7 @@ img {
 .main-header:before {
     content: "";
     height: auto;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .main-header__lower .container,
@@ -1374,7 +1374,7 @@ img {
 }
 
 .sticky-header .main-menu__navigation>li:hover>a {
-    color: var(--vardhan-base);
+    color: var(--dlight-base);
     background-color: inherit !important
 }
 
@@ -1388,12 +1388,12 @@ img {
     font-weight: 400;
     font-size: var(--font-15);
     padding-left: var(--padding-left-75);
-    color: rgba(var(--vardhan-third-color-rgb), .7)
+    color: rgba(var(--dlight-third-color-rgb), .7)
 }
 
 .main-header__phone-icon,
 .main-header__phone-number {
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     display: inline-block
 }
 
@@ -1405,7 +1405,7 @@ img {
     height: 60px;
     line-height: 60px;
     font-size: var(--font-26);
-    background-color: var(--vardhan-seven-color)
+    background-color: var(--dlight-seven-color)
 }
 
 .main-header__phone-number {
@@ -1418,11 +1418,11 @@ img {
     -o-transition: .3s;
     -moz-transition: .3s;
     transition: .3s;
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .main-header__phone-number:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .main-header__button-box {
@@ -1442,7 +1442,7 @@ img {
     -webkit-transition: .5s;
     -ms-transition: .5s;
     -o-transition: .5s;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .sticky-header .mobile-nav-toggler {
@@ -1527,7 +1527,7 @@ img {
 .main-menu__navigation>li.current-menu-item>a,
 .main-menu__navigation>li:hover>a {
     opacity: 1;
-    color: var(--vardhan-base) !important
+    color: var(--dlight-base) !important
 }
 
 .main-menu__navigation>li>ul {
@@ -1544,7 +1544,7 @@ img {
     -ms-transition: .3s;
     -o-transition: .3s;
     border-radius: 0;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .main-menu__navigation>li>ul>li {
@@ -1568,8 +1568,8 @@ img {
 .main-menu__navigation>li>ul>li:hover>a,
 .testimonial-one .owl-nav .owl-next:hover,
 .testimonial-one .owl-nav .owl-prev:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base)
+    color: var(--dlight-white);
+    background-color: var(--dlight-base)
 }
 
 .main-menu__navigation>li>ul>li.dropdown>a:after {
@@ -1591,7 +1591,7 @@ img {
 
 .main-menu__navigation>li>ul>li.dropdown:hover>a:after,
 .text-white {
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .main-menu__navigation>li>ul>li>ul {
@@ -1613,7 +1613,7 @@ img {
     -ms-transition: .3s;
     -o-transition: .3s;
     border-radius: 0;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .main-menu__navigation>li>ul>li>ul.from-right {
@@ -1642,9 +1642,9 @@ img {
 
 .main-menu__navigation>li>ul>li>ul>li:hover>a {
     color: var(--white-color);
-    background-color: var(--vardhan-blue-color);
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-blue-color);
+    color: var(--dlight-white);
+    background-color: var(--dlight-base)
 }
 
 .main-menu__navigation>li.dropdown:hover>ul {
@@ -1686,8 +1686,8 @@ img {
     text-align: center;
     display: inline-block;
     font-size: var(--font-26);
-    color: var(--vardhan-twentyeight-color);
-    background-color: var(--vardhan-white)
+    color: var(--dlight-twentyeight-color);
+    background-color: var(--dlight-white)
 }
 
 .main-header__contact-list li:last-child .icon {
@@ -1697,17 +1697,17 @@ img {
 .main-header__contact-list li p {
     margin: var(--margin-zero);
     font-size: var(--font-15);
-    color: rgba(var(--vardhan-white-rgb), .7)
+    color: rgba(var(--dlight-white-rgb), .7)
 }
 
 .main-header__contact-list li h5 {
     font-weight: 700;
     font-size: var(--font-24);
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .main-header__contact-list li h5 a {
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     transition: .5s;
     -moz-transition: .5s;
     -webkit-transition: .5s;
@@ -1725,7 +1725,7 @@ img {
     font-size: var(--font-18);
     color: var(--text-color);
     margin-left: var(--margin-left-25);
-    background-color: var(--vardhan-thirtytwo-color)
+    background-color: var(--dlight-thirtytwo-color)
 }
 
 .main-header-two__social {
@@ -1740,7 +1740,7 @@ img {
     height: 56px;
     line-height: 54px;
     display: inline-block;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-18);
     margin-left: var(--margin-left-5);
     border: 1px solid rgba(255, 255, 255, .1);
@@ -1774,12 +1774,12 @@ img {
 .mobile-menu .mobile-menu__outer li.current-menu-item>a,
 .mobile-menu .mobile-menu__outer li:hover>a,
 .mobile-menu__contact-list>li>a:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .main-header-two__social a:hover {
-    border-color: var(--vardhan-base);
-    background-color: var(--vardhan-base)
+    border-color: var(--dlight-base);
+    background-color: var(--dlight-base)
 }
 
 .main-header__btn-box {
@@ -1794,13 +1794,13 @@ img {
     float: left;
     padding: 33.5px 30px;
     margin-right: var(--margin-right-5);
-    background-color: var(--vardhan-thirtythree-color)
+    background-color: var(--dlight-thirtythree-color)
 }
 
 .main-header__location-inner {
     position: relative;
     font-size: var(--font-18);
-    color: var(--vardhan-twentyeight-color);
+    color: var(--dlight-twentyeight-color);
     padding-left: var(--padding-left-35)
 }
 
@@ -1810,7 +1810,7 @@ img {
     top: 0;
     line-height: 1em;
     font-size: var(--font-24);
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .header-style-two .container {
@@ -1818,7 +1818,7 @@ img {
 }
 
 .main-header__upper {
-    background-color: var(--vardhan-twentyeight-color)
+    background-color: var(--dlight-twentyeight-color)
 }
 
 .header-style-two .main-header__logo-box {
@@ -1836,7 +1836,7 @@ img {
     right: 0;
     bottom: 0;
     opacity: .02;
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     clip-path: polygon(0 0, 100% 0, 95% 100%, 5% 100%)
 }
 
@@ -1866,8 +1866,8 @@ img {
     padding: 33.5px 0;
     font-size: var(--font-18);
     padding-right: var(--padding-right-25);
-    color: var(--vardhan-twentyeight-color);
-    background-color: var(--vardhan-thirtythree-color)
+    color: var(--dlight-twentyeight-color);
+    background-color: var(--dlight-thirtythree-color)
 }
 
 .main-header__agent-box a {
@@ -1876,15 +1876,15 @@ img {
     padding: 3px 10px;
     font-size: var(--font-16);
     margin-left: var(--margin-left-10);
-    background-color: var(--vardhan-thirtyfour-color);
+    background-color: var(--dlight-thirtyfour-color);
     -webkit-transition-duration: .4s;
     transition-duration: .4s;
     z-index: 1
 }
 
 .main-header__agent-box a:hover {
-    color: var(--vardhan-white);
-    background: var(--vardhan-base)
+    color: var(--dlight-white);
+    background: var(--dlight-base)
 }
 
 .main-header__agent-box:before {
@@ -1894,7 +1894,7 @@ img {
     right: 100%;
     width: 200%;
     bottom: 0;
-    background-color: var(--vardhan-thirtythree-color)
+    background-color: var(--dlight-thirtythree-color)
 }
 
 .search-popup {
@@ -1966,11 +1966,11 @@ img {
     margin: -200px auto 0;
     border-radius: 50%;
     text-align: center;
-    background-color: var(--vardhan-base);
+    background-color: var(--dlight-base);
     width: 70px;
     padding: 0;
     cursor: pointer;
-    border-bottom: 3px solid var(--vardhan-white);
+    border-bottom: 3px solid var(--dlight-white);
     -webkit-transition: .5s;
     -moz-transition: .5s;
     -ms-transition: .5s;
@@ -1995,7 +1995,7 @@ img {
     width: 70px;
     font-size: var(--font-30);
     line-height: 70px;
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .search-active .search-popup .close-search {
@@ -2019,7 +2019,7 @@ img {
     margin: -35px auto 0;
     transform: scaleX(0);
     transform-origin: center;
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     transition: .3s
 }
 
@@ -2049,7 +2049,7 @@ img {
     height: 70px;
     width: 100%;
     padding: 10px 30px;
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     -webkit-transition: .5s;
     -moz-transition: .5s;
     -ms-transition: .5s;
@@ -2120,7 +2120,7 @@ img {
     cursor: pointer;
     line-height: 44px;
     padding: 0;
-    color: var(--vardhan-dark);
+    color: var(--dlight-dark);
     font-size: var(--font-30);
     font-family: FontAwesome
 }
@@ -2196,7 +2196,7 @@ img {
     height: 100%;
     max-height: 100%;
     overflow-y: auto;
-    background: var(--vardhan-black);
+    background: var(--dlight-black);
     padding: 0;
     z-index: 5;
     border-radius: 0;
@@ -2234,18 +2234,18 @@ img {
     height: 30px;
     border-radius: 50px;
     display: inline-block;
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base)
+    color: var(--dlight-white);
+    background-color: var(--dlight-base)
 }
 
 .main-slider__three-title span::before,
 .service-two__single:hover .service-two__single-inner:before {
-    background-color: var(--vardhan-fourtyone-color)
+    background-color: var(--dlight-fourtyone-color)
 }
 
 .mobile-menu__contact-list>li>a {
     position: relative;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-16);
     transition: .5s;
     -moz-transition: .5s;
@@ -2277,7 +2277,7 @@ img {
     line-height: 36px;
     border-radius: 50px;
     color: #222;
-    background-color: var(--vardhan-base);
+    background-color: var(--dlight-base);
     transition: .5s;
     -moz-transition: .5s;
     -webkit-transition: .5s;
@@ -2292,7 +2292,7 @@ img {
 
 .mobile-menu__social li a:hover {
     background-color: #222;
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .mobile-menu-visible .mobile-menu .mobile-menu__box {
@@ -2308,10 +2308,10 @@ img {
     right: 15px;
     top: 15px;
     font-size: var(--font-20);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     cursor: pointer;
     z-index: 10;
-    background-color: var(--vardhan-black);
+    background-color: var(--dlight-black);
     -webkit-transition: .5s;
     -moz-transition: .5s;
     -ms-transition: .5s;
@@ -2350,9 +2350,9 @@ img {
     height: 34px;
     text-align: center;
     border-radius: 3px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-16);
-    background-color: var(--vardhan-base);
+    background-color: var(--dlight-base);
     line-height: 34px;
     cursor: pointer;
     z-index: 5
@@ -2380,7 +2380,7 @@ img {
     line-height: 24px;
     padding: 10px 15px;
     font-size: var(--font-16);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     text-transform: capitalize
 }
 
@@ -2405,7 +2405,7 @@ img {
 .main-slider-three .swiper-slide,
 .main-slider-two .swiper-slide {
     position: relative;
-    background-color: var(--vardhan-black)
+    background-color: var(--dlight-black)
 }
 
 .main-slider .container {
@@ -2676,7 +2676,7 @@ img {
 
 .main-slider__sub-title {
     font-size: 16px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-weight: 500;
     line-height: 34px;
     text-transform: uppercase;
@@ -2684,12 +2684,12 @@ img {
 }
 
 .main-slider__title {
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     line-height: 100px;
     font-weight: 700;
     font-size: var(--font-110);
     margin-bottom: 63px;
-    font-family: var(--vardhan-smooch-font);
+    font-family: var(--dlight-smooch-font);
     transform: translateY(-120px);
     transition: transform 2s, opacity 2s, -webkit-transform 2s
 }
@@ -2746,7 +2746,7 @@ img {
     justify-content: center;
     align-items: center;
     font-size: 18px;
-    color: rgba(var(--vardhan-white-rgb), 1);
+    color: rgba(var(--dlight-white-rgb), 1);
     background-color: rgba(193, 222, 243, .3);
     border-radius: 50%;
     margin: 0;
@@ -2757,7 +2757,7 @@ img {
 
 .main-slider__nav .swiper-button-next:hover,
 .main-slider__nav .swiper-button-prev:hover {
-    color: rgba(var(--vardhan-white-rgb), 1);
+    color: rgba(var(--dlight-white-rgb), 1);
     background-color: #000
 }
 
@@ -2906,27 +2906,27 @@ img {
 
 .main-slider__two-top-icon span {
     font-size: 35px;
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .main-slider__two-top-text {
     position: relative;
     font-weight: 500;
     line-height: 1.6em;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-16);
     text-transform: uppercase;
-    font-family: var(--vardhan-catamaran-font);
+    font-family: var(--dlight-catamaran-font);
     margin: 0
 }
 
 .main-slider__three-title,
 .main-slider__two-title {
     font-size: var(--font-110);
-    font-family: var(--vardhan-smooch-font);
+    font-family: var(--dlight-smooch-font);
     opacity: 0;
     visibility: hidden;
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .main-slider__two-title {
@@ -2939,7 +2939,7 @@ img {
 }
 
 .main-slider__two-text {
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     line-height: 36px;
     font-weight: 400;
     margin-bottom: var(--margin-bottom-50);
@@ -3112,7 +3112,7 @@ img {
     font-size: var(--font-40);
     font-weight: 700;
     line-height: 40px;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin: 0 0 20px
 }
 
@@ -3120,13 +3120,13 @@ img {
     font-size: var(--font-22);
     font-weight: 400;
     line-height: 32px;
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .energy-one__phone-inner,
 .enerygy-one__client-box {
     font-weight: 600;
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .main-slider__three-video-link {
@@ -3157,8 +3157,8 @@ img {
     line-height: 97px;
     text-align: center;
     font-size: 23px;
-    color: var(--vardhan-base);
-    border: 1px solid var(--vardhan-base);
+    color: var(--dlight-base);
+    border: 1px solid var(--dlight-base);
     border-radius: 50%;
     transition: .5s;
     -moz-transition: .5s;
@@ -3171,12 +3171,12 @@ img {
 .enerygy-one__text-two {
     line-height: 34px;
     font-size: var(--font-20);
-    color: var(--vardhan-eight-color)
+    color: var(--dlight-eight-color)
 }
 
 .main-slider__three-video-icon:hover {
-    background-color: var(--vardhan-base);
-    color: var(--vardhan-white)
+    background-color: var(--dlight-base);
+    color: var(--dlight-white)
 }
 
 .main-slider__three-video-icon:before {
@@ -3187,7 +3187,7 @@ img {
     bottom: -10px;
     content: "";
     border-radius: 50%;
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     box-shadow: 0 0 32px 0 rgba(207, 204, 204, .45);
     z-index: -1
 }
@@ -3202,10 +3202,10 @@ img {
     height: 93px;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    -ms-box-shadow: 0 0 0 0 rgba(var(--vardhan-base-rgb), .6);
-    -o-box-shadow: 0 0 0 0 rgba(var(--vardhan-base-rgb), .6);
-    -webkit-box-shadow: 0 0 0 0 rgba(var(--vardhan-base-rgb), .6);
-    box-shadow: 0 0 0 0 rgba(var(--vardhan-base-rgb), .6);
+    -ms-box-shadow: 0 0 0 0 rgba(var(--dlight-base-rgb), .6);
+    -o-box-shadow: 0 0 0 0 rgba(var(--dlight-base-rgb), .6);
+    -webkit-box-shadow: 0 0 0 0 rgba(var(--dlight-base-rgb), .6);
+    box-shadow: 0 0 0 0 rgba(var(--dlight-base-rgb), .6);
     -webkit-animation: 3s infinite ripple;
     animation: 3s infinite ripple;
     border-radius: 50%
@@ -3278,7 +3278,7 @@ img {
 
 #main-slider-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
     width: 28px;
-    background-color: var(--vardhan-base) !important;
+    background-color: var(--dlight-base) !important;
     opacity: 1
 }
 
@@ -3286,7 +3286,7 @@ img {
     position: relative;
     overflow: hidden;
     padding: 120px 0 50px;
-    background-color: var(--vardhan-nine-color)
+    background-color: var(--dlight-nine-color)
 }
 
 .energy-one__color,
@@ -3302,7 +3302,7 @@ img {
 
 .energy-one__color {
     left: -200px;
-    background-color: var(--vardhan-twelve-color);
+    background-color: var(--dlight-twelve-color);
     animation-name: float-bob-x;
     animation-duration: 2s;
     animation-iteration-count: infinite;
@@ -3311,7 +3311,7 @@ img {
 
 .energy-one__color-two {
     right: -240px;
-    background-color: var(--vardhan-thirteen-color);
+    background-color: var(--dlight-thirteen-color);
     -webkit-animation-name: float-bob-x;
     animation-name: float-bob-x;
     -webkit-animation-duration: 2s;
@@ -3466,14 +3466,14 @@ img {
     padding: 60px 35px;
     border-radius: 6px;
     line-height: 38px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-36);
-    background-color: var(--vardhan-second-color)
+    background-color: var(--dlight-second-color)
 }
 
 .enerygy-one__client-box span {
     position: relative;
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .enerygy-one__client-box::before {
@@ -3483,7 +3483,7 @@ img {
     top: 30px;
     width: 10px;
     height: 10px;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .enerygy-one__client-box::after {
@@ -3493,7 +3493,7 @@ img {
     bottom: 40px;
     width: 10px;
     height: 10px;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .energy-one__btn-box,
@@ -3510,7 +3510,7 @@ img {
 .energy-one__phone-inner {
     position: relative;
     font-size: var(--font-28);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     padding-top: var(--padding-top-5);
     padding-left: var(--padding-left-80)
 }
@@ -3531,13 +3531,13 @@ img {
     text-align: center;
     display: inline-block;
     font-size: var(--font-30);
-    color: var(--vardhan-third-color);
-    background-color: var(--vardhan-ten-color)
+    color: var(--dlight-third-color);
+    background-color: var(--dlight-ten-color)
 }
 
 .energy-one__phone-number:hover,
 .service-one__title a:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .energy-one__phone-number {
@@ -3546,9 +3546,9 @@ img {
     display: inline-block;
     font-size: var(--font-24);
     margin-top: var(--margin-top-10);
-    color: var(--vardhan-primary);
+    color: var(--dlight-primary);
     transition: .3s;
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .service-one__read-more,
@@ -3558,7 +3558,7 @@ img {
     -ms-transition: .3s;
     -o-transition: .3s;
     -moz-transition: .3s;
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .energy-one__images-column .inner-column,
@@ -3601,18 +3601,18 @@ img {
     top: 45px;
     width: 428px;
     height: 526px;
-    background-color: var(--vardhan-eleven-color)
+    background-color: var(--dlight-eleven-color)
 }
 
 .service-one,
 .service-one-1 .service-three__content {
     position: relative;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .service-one-1 {
     position: relative;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .service-one-1 .service-three__content {
@@ -3630,14 +3630,14 @@ img {
     overflow: hidden;
     text-align: center;
     padding: 15px 35px 50px;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .service-one__icon {
     position: relative;
     line-height: 1em;
     font-size: var(--font-40);
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .service-one__title {
@@ -3660,7 +3660,7 @@ img {
     line-height: 34px;
     opacity: .8;
     font-size: var(--font-18);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-25)
 }
 
@@ -3674,7 +3674,7 @@ img {
     position: relative;
     font-weight: 500;
     font-size: var(--font-16);
-    font-family: var(--vardhan-catamaran-font);
+    font-family: var(--dlight-catamaran-font);
     transition: .3s
 }
 
@@ -3685,23 +3685,23 @@ img {
     line-height: 28px;
     display: inline-block;
     border-radius: 3px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     margin-left: var(--margin-left-10);
     -webkit-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
     -moz-transition: .3s;
     transition: .3s;
-    background-color: var(--vardhan-third-color)
+    background-color: var(--dlight-third-color)
 }
 
 .service-one__read-more:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .service-one__read-more:hover .service-one__read-arrow {
-    background-color: var(--vardhan-base);
-    color: var(--vardhan-white)
+    background-color: var(--dlight-base);
+    color: var(--dlight-white)
 }
 
 .faq-one {
@@ -3729,7 +3729,7 @@ img {
     bottom: 45px;
     z-index: 1;
     border-radius: 3px;
-    border: 1px solid var(--vardhan-white)
+    border: 1px solid var(--dlight-white)
 }
 
 .faq-one__accordion-column-inner {
@@ -3751,7 +3751,7 @@ img {
     border-radius: 3px;
     overflow: hidden;
     padding: 20px 25px 20px 50px;
-    background-color: var(--vardhan-eightteen-color);
+    background-color: var(--dlight-eightteen-color);
     transition: .5s;
     -moz-transition: .5s;
     -webkit-transition: .5s;
@@ -3770,7 +3770,7 @@ img {
     -ms-transition: .5s;
     -o-transition: .5s;
     -moz-transition: .5s;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     -webkit-transition: .5s
 }
 
@@ -3798,7 +3798,7 @@ img {
 
 .news-one__title,
 .project-two__inner-container {
-    border-bottom: 1px solid var(--vardhan-twentythree-color)
+    border-bottom: 1px solid var(--dlight-twentythree-color)
 }
 
 .faq-one__icon {
@@ -3834,7 +3834,7 @@ img {
 .choose-one__title a,
 .faq-one__text,
 .project-one__title a {
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .choose-one__arrow,
@@ -3873,7 +3873,7 @@ img {
 .choose-one {
     position: relative;
     padding: 90px 0 190px;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .choose-one.style-two {
@@ -3902,7 +3902,7 @@ img {
     padding: 35px;
     border-radius: 3px;
     overflow: hidden;
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     min-height: 400px
 }
 
@@ -3915,7 +3915,7 @@ img {
     height: 120px;
     opacity: .1;
     border-radius: 50%;
-    background-color: var(--vardhan-primary)
+    background-color: var(--dlight-primary)
 }
 
 .site-footer__bottom-logo:before,
@@ -3945,7 +3945,7 @@ img {
 }
 
 .choose-one__title a:hover {
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .choose-one__text {
@@ -3961,7 +3961,7 @@ img {
 .cta-one__count,
 .cta-one__text,
 .cta-one__title {
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .choose-one__arrow {
@@ -3974,7 +3974,7 @@ img {
     display: inline-block;
     margin-top: var(--margin-top-25);
     transition: .3s;
-    background-color: var(--vardhan-primary)
+    background-color: var(--dlight-primary)
 }
 
 .project-one .owl-dots .owl-dot,
@@ -3986,11 +3986,11 @@ img {
 }
 
 .choose-one__arrow:hover {
-    background-color: var(--vardhan-nineteen-color)
+    background-color: var(--dlight-nineteen-color)
 }
 
 .cta-one__inner {
-    background-color: var(--vardhan-twenty-color)
+    background-color: var(--dlight-twenty-color)
 }
 
 .cta-one__title {
@@ -4033,7 +4033,7 @@ img {
     font-weight: 700;
     line-height: 1em;
     font-size: var(--font-65);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .cta-one__text {
@@ -4067,7 +4067,7 @@ img {
     border-radius: 50px;
     display: inline-block;
     margin-left: var(--margin-left-10);
-    border: 3px solid var(--vardhan-twentytwo-color);
+    border: 3px solid var(--dlight-twentytwo-color);
     transition: .3s
 }
 
@@ -4076,8 +4076,8 @@ img {
     width: 50px;
     height: 50px;
     line-height: 55px;
-    color: var(--vardhan-base);
-    background-color: var(--vardhan-white)
+    color: var(--dlight-base);
+    background-color: var(--dlight-white)
 }
 
 .project-one__image {
@@ -4129,8 +4129,8 @@ img {
     overflow: hidden;
     padding: 25px 30px;
     border-radius: 2px;
-    border-left: 5px solid var(--vardhan-primary);
-    background-color: var(--vardhan-white);
+    border-left: 5px solid var(--dlight-primary);
+    background-color: var(--dlight-white);
     z-index: 2
 }
 
@@ -4139,7 +4139,7 @@ img {
 .project-three__sub-title {
     position: relative;
     font-size: var(--font-16);
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .project-one__title,
@@ -4167,12 +4167,12 @@ img {
 }
 
 .project-one__title a:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .news-one__meta li a i,
 .news-one__title a:hover {
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .project-one__arrow,
@@ -4186,14 +4186,14 @@ img {
     text-align: center;
     line-height: 60px;
     font-size: var(--font-16);
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base);
+    color: var(--dlight-white);
+    background-color: var(--dlight-base);
     transition: .3s
 }
 
 .project-one__arrow:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-primary)
+    color: var(--dlight-white);
+    background-color: var(--dlight-primary)
 }
 
 .project-one__arrow span {
@@ -4212,13 +4212,13 @@ img {
     font-weight: 600;
     line-height: 33px;
     font-size: var(--font-65);
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .energy-two__title,
 .energy-two__title-two {
     font-weight: 700;
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .energy-two__skills,
@@ -4262,7 +4262,7 @@ img {
     opacity: .8;
     font-size: var(--font-20);
     margin-top: var(--margin-top-35);
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .project-two__btn-box {
@@ -4312,7 +4312,7 @@ img {
     position: relative;
     line-height: 75px;
     font-size: var(--font-75);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .energy-two__text,
@@ -4325,7 +4325,7 @@ img {
 .energy-two__text {
     font-size: var(--font-20);
     margin-top: var(--margin-top-25);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-30)
 }
 
@@ -4337,7 +4337,7 @@ img {
 .energy-two__text-two {
     font-size: var(--font-18);
     margin-top: var(--margin-top-15);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-30)
 }
 
@@ -4346,7 +4346,7 @@ img {
     font-weight: 500;
     line-height: 25.6px;
     text-transform: capitalize;
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .energy-two__skill-bar {
@@ -4354,7 +4354,7 @@ img {
     width: 100%;
     padding: 5px;
     border-radius: 3px;
-    background-color: var(--vardhan-twentyfour-color)
+    background-color: var(--dlight-twentyfour-color)
 }
 
 .energy-two__bar-inner {
@@ -4369,7 +4369,7 @@ img {
     height: 8px;
     width: 0;
     border-radius: 3px;
-    background-color: var(--vardhan-primary);
+    background-color: var(--dlight-primary);
     -webkit-transition: 2s;
     -ms-transition: 2s;
     -o-transition: 2s;
@@ -4397,12 +4397,12 @@ img {
 .testimonial-two {
     position: relative;
     padding: 90px 0;
-    background-color: var(--vardhan-twentyfive-color)
+    background-color: var(--dlight-twentyfive-color)
 }
 
 .footer-widget__newsletter-btn:hover,
 .testimonial-one__quote-icon {
-    background-color: var(--vardhan-primary)
+    background-color: var(--dlight-primary)
 }
 
 .testimonial-one__shape-one,
@@ -4495,7 +4495,7 @@ img {
     width: 100%;
     text-align: center;
     font-size: var(--font-32);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-40)
 }
 
@@ -4518,7 +4518,7 @@ img {
     font-weight: 600;
     line-height: 38px;
     font-size: var(--font-30);
-    color: var(--vardhan-base);
+    color: var(--dlight-base);
     margin-top: var(--margin-top-20)
 }
 
@@ -4539,7 +4539,7 @@ img {
     line-height: 40px;
     border-radius: 50px;
     display: inline-block;
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .consultant-one,
@@ -4565,7 +4565,7 @@ img {
 .news-two__img {
     position: relative;
     overflow: hidden;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .news-one__img img {
@@ -4596,7 +4596,7 @@ img {
     display: inline-block;
     font-size: var(--font-16);
     padding-left: var(--padding-left-25);
-    color: rgba(var(--vardhan-twentysix-color-rgb), .8)
+    color: rgba(var(--dlight-twentysix-color-rgb), .8)
 }
 
 .news-one__meta li a i {
@@ -4619,11 +4619,11 @@ img {
 .news-one__title-two {
     font-weight: 500;
     font-size: var(--font-16);
-    font-family: var(--vardhan-catamaran-font)
+    font-family: var(--dlight-catamaran-font)
 }
 
 .news-one__title a {
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     transition: .3s
 }
 
@@ -4652,18 +4652,18 @@ img {
 
 .news-one__title-two {
     position: relative;
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .news-one__designation {
     position: relative;
     top: -3px;
-    color: var(--vardhan-twentyseven-color)
+    color: var(--dlight-twentyseven-color)
 }
 
 .site-footer {
     position: relative;
-    background-color: var(--vardhan-twentyeight-color)
+    background-color: var(--dlight-twentyeight-color)
 }
 
 .footer-widget__column {
@@ -4760,13 +4760,13 @@ img {
     font-weight: 600;
     line-height: 32px;
     font-size: var(--font-30);
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .footer-contact__list li,
 .site-footer__about-text {
     font-size: var(--font-16);
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .site-footer__about-text,
@@ -4799,8 +4799,8 @@ img {
     border-radius: 50px;
     display: inline-block;
     font-size: var(--font-20);
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-twentynine-color)
+    color: var(--dlight-white);
+    background-color: var(--dlight-twentynine-color)
 }
 
 .footer-widget__links-list li {
@@ -4811,18 +4811,18 @@ img {
     position: relative;
     opacity: .8;
     font-size: var(--font-16);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     transition: .3s
 }
 
 .footer-widget__links-list li a:hover {
     opacity: 1;
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .site-footer__newsletter-text {
     font-size: var(--font-16);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     padding-right: var(--padding-right-60)
 }
 
@@ -4830,7 +4830,7 @@ img {
 .site-footer__copyright,
 .site-footer_newsletter-list li a {
     font-size: var(--font-18);
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .footer-widget__newsletter-form {
@@ -4843,7 +4843,7 @@ img {
     position: relative;
     display: block;
     padding: 5px;
-    background-color: var(--vardhan-thirty-color)
+    background-color: var(--dlight-thirty-color)
 }
 
 .footer-widget__newsletter-input-box input[type=email] {
@@ -4854,7 +4854,7 @@ img {
     font-weight: 400;
     border-radius: 4px;
     font-size: var(--font-16);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     padding-left: var(--padding-left-25);
     padding-right: var(--padding-right-80);
     background-color: var(--roofie-seventeen-color)
@@ -4862,7 +4862,7 @@ img {
 
 .footer-widget__newsletter-input-box input::placeholder {
     opacity: .5;
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .footer-widget__newsletter-btn {
@@ -4874,7 +4874,7 @@ img {
     bottom: 0;
     border: 0;
     font-weight: 600;
-    background-color: var(--vardhan-base);
+    background-color: var(--dlight-base);
     border-radius: 4px;
     -webkit-transition: .5s;
     transition: .5s;
@@ -4903,12 +4903,12 @@ img {
 
 .site-footer__bottom {
     position: relative;
-    background-color: var(--vardhan-thirtyone-color)
+    background-color: var(--dlight-thirtyone-color)
 }
 
 .counter-one,
 .solar-one {
-    background-color: var(--vardhan-nine-color);
+    background-color: var(--dlight-nine-color);
     position: relative
 }
 
@@ -4929,7 +4929,7 @@ img {
     top: 0;
     right: 0;
     bottom: 0;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .site-footer__copyright {
@@ -4960,15 +4960,15 @@ img {
     line-height: 58px;
     display: inline-block;
     font-size: var(--font-16);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     text-transform: uppercase;
     border: 1px solid rgba(255, 255, 255, .15);
     transition: .3s
 }
 
 .site-footer__social-nav li a:hover {
-    border-color: var(--vardhan-base);
-    background-color: var(--vardhan-base)
+    border-color: var(--dlight-base);
+    background-color: var(--dlight-base)
 }
 
 .counter-one__inner-container {
@@ -4993,21 +4993,21 @@ img {
     border-radius: 50%;
     text-align: center;
     font-size: var(--font-40);
-    color: var(--vardhan-thirtysix-color);
-    background-color: var(--vardhan-thirtyfive-color)
+    color: var(--dlight-thirtysix-color);
+    background-color: var(--dlight-thirtyfive-color)
 }
 
 .project-three__title a:hover,
 .service-two__read-more:hover,
 .service-two__title a:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .counter-one__count {
     font-weight: 700;
     font-size: var(--font-36);
     color: var(--solapa-thirtysix-color);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .counter-one__text {
@@ -5023,7 +5023,7 @@ img {
 .solar-one__text-two {
     line-height: 34px;
     font-size: var(--font-18);
-    color: var(--vardhan-eight-color)
+    color: var(--dlight-eight-color)
 }
 
 .solar-one {
@@ -5109,7 +5109,7 @@ img {
     width: 470px;
     height: 470px;
     opacity: .1;
-    background-color: var(--vardhan-eleven-color);
+    background-color: var(--dlight-eleven-color);
     animation-name: float-bob-x;
     animation-duration: 2s;
     animation-iteration-count: infinite;
@@ -5128,7 +5128,7 @@ img {
 .solar-two__color {
     right: -280px;
     top: 20px;
-    background-color: var(--vardhan-thirteen-color);
+    background-color: var(--dlight-thirteen-color);
     animation-name: float-bob-x;
     animation-duration: 2s;
     animation-iteration-count: infinite;
@@ -5155,7 +5155,7 @@ img {
     top: 70px;
     width: 420px;
     height: 500px;
-    background-color: var(--vardhan-eleven-color)
+    background-color: var(--dlight-eleven-color)
 }
 
 .solar-one__shape-three {
@@ -5207,13 +5207,13 @@ img {
     margin-bottom: var(--margin-bottom-40);
     padding-right: var(--padding-right-80);
     padding-bottom: var(--padding-bottom-30);
-    border-bottom: 1px solid var(--vardhan-twentythree-color)
+    border-bottom: 1px solid var(--dlight-twentythree-color)
 }
 
 .service-two {
     position: relative;
     padding: 60px 0 80px;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .service-two.style-two {
@@ -5225,7 +5225,7 @@ img {
     overflow: hidden;
     border-radius: 5px;
     padding: 10px 45px;
-    background-color: var(--vardhan-fourtythree-color)
+    background-color: var(--dlight-fourtythree-color)
 }
 
 .service-two__single-inner:before {
@@ -5236,7 +5236,7 @@ img {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    background-color: var(--vardhan-base);
+    background-color: var(--dlight-base);
     transition: .3s
 }
 
@@ -5256,13 +5256,13 @@ img {
     font-weight: 700;
     line-height: 1em;
     color: #555;
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .service-two__icon,
 .service-two__read-more,
 .service-two__title a {
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .service-two__icon {
@@ -5278,8 +5278,8 @@ img {
 }
 
 .service-two__single:hover .service-two__icon {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base)
+    color: var(--dlight-white);
+    background-color: var(--dlight-base)
 }
 
 .service-two__title {
@@ -5308,7 +5308,7 @@ img {
 .service-two__read-more {
     font-weight: 500;
     font-size: var(--font-16);
-    font-family: var(--vardhan-catamaran-font);
+    font-family: var(--dlight-catamaran-font);
     transition: .3s
 }
 
@@ -5316,7 +5316,7 @@ img {
 .consultant-two__phone-number,
 .history-one__client-box,
 .progress-one__number {
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .service-two__read-arrow {
@@ -5325,10 +5325,10 @@ img {
     line-height: 28px;
     display: inline-block;
     border-radius: 3px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     margin-right: var(--margin-right-10);
     transition: .3s;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .project-three .owl-dots .owl-dot,
@@ -5341,19 +5341,19 @@ img {
 }
 
 .service-two__read-more:hover .service-two__read-arrow {
-    background-color: var(--vardhan-primary);
-    color: var(--vardhan-white)
+    background-color: var(--dlight-primary);
+    color: var(--dlight-white)
 }
 
 .sponsors-one {
     position: relative;
     padding: 0 0 190px;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .sponsors-one.style-two {
     padding-top: var(--padding-top-110);
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .sponsors-one .section-title__title {
@@ -5398,7 +5398,7 @@ img {
     margin: 0 7px;
     border-radius: 50px;
     margin-left: var(--margin-left-10);
-    border: 3px solid var(--vardhan-twentytwo-color);
+    border: 3px solid var(--dlight-twentytwo-color);
     transition: .3s
 }
 
@@ -5413,7 +5413,7 @@ img {
     bottom: -8px;
     opacity: 0;
     border-radius: 50px;
-    border: 2px solid var(--vardhan-base);
+    border: 2px solid var(--dlight-base);
     -webkit-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
@@ -5427,7 +5427,7 @@ img {
 .project-three .owl-dots .owl-dot:hover,
 .testimonial-two .owl-dots .owl-dot.active,
 .testimonial-two .owl-dots .owl-dot:hover {
-    background-color: var(--vardhan-twentytwo-color)
+    background-color: var(--dlight-twentytwo-color)
 }
 
 .project-three__outer-container {
@@ -5442,7 +5442,7 @@ img {
     position: relative;
     border-radius: 3px;
     overflow: hidden;
-    background-color: var(--vardhan-primary)
+    background-color: var(--dlight-primary)
 }
 
 .project-three__image img {
@@ -5469,13 +5469,13 @@ img {
     border-radius: 2px;
     display: inline-block;
     padding: 25px 80px 25px 30px;
-    border-left: 5px solid var(--vardhan-primary);
-    background-color: var(--vardhan-white)
+    border-left: 5px solid var(--dlight-primary);
+    background-color: var(--dlight-white)
 }
 
 .project-three__title a {
     position: relative;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     -webkit-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
@@ -5485,8 +5485,8 @@ img {
 
 .faq-email a:hover,
 .project-three__arrow:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-primary)
+    color: var(--dlight-white);
+    background-color: var(--dlight-primary)
 }
 
 .project-three__arrow span {
@@ -5505,7 +5505,7 @@ img {
     border-radius: 50px;
     display: inline-block;
     margin-left: var(--margin-left-10);
-    border: 3px solid var(--vardhan-twentytwo-color);
+    border: 3px solid var(--dlight-twentytwo-color);
     -webkit-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
@@ -5524,7 +5524,7 @@ img {
     border-radius: 4px;
     overflow: hidden;
     padding: 50px 35px 45px;
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     min-height: 380px
 }
 
@@ -5536,14 +5536,14 @@ img {
     width: 85px;
     height: 85px;
     border-radius: 50%;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .testimonial-two__text {
     position: relative;
     line-height: 30px;
     font-size: var(--font-18);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-top: var(--margin-top-30)
 }
 
@@ -5587,14 +5587,14 @@ h3.testimonial-two__title {
     border-radius: 50px;
     text-align: center;
     display: inline-block;
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-primary)
+    color: var(--dlight-white);
+    background-color: var(--dlight-primary)
 }
 
 .consultant-one__inner-container {
     position: relative;
     margin-top: -50px;
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     box-shadow: 0 10px 15px rgba(0, 0, 0, .07)
 }
 
@@ -5617,7 +5617,7 @@ h3.testimonial-two__title {
     right: 130px;
     bottom: 40px;
     z-index: 1;
-    border: 1px solid var(--vardhan-white)
+    border: 1px solid var(--dlight-white)
 }
 
 .consultant-one__image:after {
@@ -5628,7 +5628,7 @@ h3.testimonial-two__title {
     bottom: -30px;
     width: 320px;
     z-index: -1;
-    border: 1px solid var(--vardhan-thirtynine-color)
+    border: 1px solid var(--dlight-thirtynine-color)
 }
 
 .consultant-one__image img {
@@ -5646,7 +5646,7 @@ h3.testimonial-two__title {
     position: relative;
     font-weight: 700;
     font-size: var(--font-52);
-    color: var(--vardhan-thirtyeight-color)
+    color: var(--dlight-thirtyeight-color)
 }
 
 .consultant-one__text {
@@ -5654,7 +5654,7 @@ h3.testimonial-two__title {
     line-height: 32px;
     font-size: var(--font-20);
     margin-bottom: var(--margin-bottom-25);
-    color: var(--vardhan-thirtyeight-color)
+    color: var(--dlight-thirtyeight-color)
 }
 
 .consultant-one__form {
@@ -5688,8 +5688,8 @@ h3.testimonial-two__title {
     -o-transition: .3s;
     background: var(--roofie-white);
     -webkit-transition: .3s;
-    color: var(--vardhan-thirtyeight-color);
-    border: 1px solid var(--vardhan-thirtynine-color);
+    color: var(--dlight-thirtyeight-color);
+    border: 1px solid var(--dlight-thirtynine-color);
     -moz-transition: .3s
 }
 
@@ -5767,21 +5767,21 @@ h3.testimonial-two__title {
     bottom: 15px;
     padding: 6px 14px 3px;
     border-radius: 3px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-16);
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .choose-two,
 .history-one {
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .news-two__content {
     position: relative;
     padding: 35px 30px;
     box-shadow: 0 0 15px rgba(0, 0, 0, .1);
-    border-bottom: 2px solid var(--vardhan-fourty-color)
+    border-bottom: 2px solid var(--dlight-fourty-color)
 }
 
 .news-two__content:before {
@@ -5791,7 +5791,7 @@ h3.testimonial-two__title {
     bottom: -2px;
     height: 2px;
     width: 60%;
-    background-color: var(--vardhan-third-color)
+    background-color: var(--dlight-third-color)
 }
 
 .news-two__meta li {
@@ -5805,7 +5805,7 @@ h3.testimonial-two__title {
     display: inline-block;
     font-size: var(--font-16);
     padding-left: var(--padding-left-25);
-    color: rgba(var(--vardhan-twentysix-color-rgb), .8)
+    color: rgba(var(--dlight-twentysix-color-rgb), .8)
 }
 
 .news-two__meta li a i {
@@ -5813,7 +5813,7 @@ h3.testimonial-two__title {
     left: 0;
     top: 2px;
     line-height: 1em;
-    color: var(--vardhan-twentysix-color)
+    color: var(--dlight-twentysix-color)
 }
 
 .news-two__title {
@@ -5826,7 +5826,7 @@ h3.testimonial-two__title {
 
 .news-two__title a {
     position: relative;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     -webkit-transition: .3s;
     -moz-transition: .3s;
     -ms-transition: .3s;
@@ -5835,14 +5835,14 @@ h3.testimonial-two__title {
 }
 
 .news-two__title a:hover {
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .news-two__text {
     position: relative;
     line-height: 34px;
     font-size: var(--font-18);
-    color: rgba(var(--vardhan-fourteen-color-rgb), .8)
+    color: rgba(var(--dlight-fourteen-color-rgb), .8)
 }
 
 .site-footer__upper {
@@ -5875,14 +5875,14 @@ h3.testimonial-two__title {
     right: 0;
     bottom: 0;
     z-index: -1;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .site-footer__upper-title {
     font-weight: 600;
     line-height: 50px;
     padding-left: 260px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-43);
     top: 6px
 }
@@ -5890,7 +5890,7 @@ h3.testimonial-two__title {
 .choose-two .choose-two__icon,
 .choose-two__count,
 .choose-two__text {
-    color: var(--vardhan-thirtysix-color)
+    color: var(--dlight-thirtysix-color)
 }
 
 .site-footer__upper-btn-box {
@@ -5940,12 +5940,12 @@ h3.testimonial-two__title {
     border-radius: 50%;
     text-align: center;
     font-size: var(--font-40);
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .service-three__read-more:hover,
 .service-three__title a:hover {
-    color: var(--vardhan-nineteen-color)
+    color: var(--dlight-nineteen-color)
 }
 
 .choose-two__count {
@@ -5967,7 +5967,7 @@ h3.testimonial-two__title {
     opacity: .8;
     font-size: var(--font-20);
     margin-top: var(--margin-top-35);
-    color: var(--vardhan-fourteen-color)
+    color: var(--dlight-fourteen-color)
 }
 
 .history-one {
@@ -5993,14 +5993,14 @@ h3.testimonial-two__title {
     font-weight: 600;
     line-height: 38px;
     max-width: 230px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-36);
-    background-color: var(--vardhan-second-color)
+    background-color: var(--dlight-second-color)
 }
 
 .history-one__client-box span {
     position: relative;
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .history-one__client-box::before {
@@ -6010,7 +6010,7 @@ h3.testimonial-two__title {
     top: 30px;
     width: 10px;
     height: 10px;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .history-one__client-box::after {
@@ -6020,14 +6020,14 @@ h3.testimonial-two__title {
     bottom: 40px;
     width: 10px;
     height: 10px;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .history-one__title {
     line-height: 66px;
     font-weight: 600;
     font-size: var(--font-60);
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .history-one__text {
@@ -6036,7 +6036,7 @@ h3.testimonial-two__title {
     opacity: .8;
     font-size: var(--font-20);
     margin-top: var(--margin-top-25);
-    color: var(--vardhan-fourteen-color)
+    color: var(--dlight-fourteen-color)
 }
 
 .history-one__btn-box {
@@ -6048,13 +6048,13 @@ h3.testimonial-two__title {
 .service-three {
     position: relative;
     padding: 80px 0 180px;
-    background-color: var(--vardhan-fourtytwo-color)
+    background-color: var(--dlight-fourtytwo-color)
 }
 
 .service-three.style-two {
     padding-top: var(--padding-top-5);
     padding-bottom: var(--padding-bottom-10);
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .service-three__single-inner {
@@ -6065,7 +6065,7 @@ h3.testimonial-two__title {
 .service-three__image {
     position: relative;
     overflow: hidden;
-    background-color: var(--vardhan-nineteen-color)
+    background-color: var(--dlight-nineteen-color)
 }
 
 .service-three__image img {
@@ -6095,7 +6095,7 @@ h3.testimonial-two__title {
 .service-three__content {
     position: relative;
     padding: 35px 35px 50px;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .service-three__content:before {
@@ -6106,7 +6106,7 @@ h3.testimonial-two__title {
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    background-color: var(--vardhan-fourtythree-color)
+    background-color: var(--dlight-fourtythree-color)
 }
 
 .service-three__content-upper {
@@ -6121,12 +6121,12 @@ h3.testimonial-two__title {
     z-index: 1;
     line-height: 1em;
     font-size: var(--font-50);
-    color: var(--vardhan-black)
+    color: var(--dlight-black)
 }
 
 .service-three__text,
 .service-three__title a {
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     position: relative
 }
 
@@ -6139,7 +6139,7 @@ h3.testimonial-two__title {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-color: var(--vardhan-sixteen-color)
+    background-color: var(--dlight-sixteen-color)
 }
 
 .service-three__title {
@@ -6168,11 +6168,11 @@ h3.testimonial-two__title {
     line-height: 28px;
     text-align: center;
     display: inline-block;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     border-radius: 3px 50px 50px 3px;
     margin-left: var(--margin-left-10);
     transition: .3s;
-    background-color: var(--vardhan-nineteen-color)
+    background-color: var(--dlight-nineteen-color)
 }
 
 .pricing-one__start-btn,
@@ -6181,7 +6181,7 @@ h3.testimonial-two__title {
 .progress-one__number,
 .progress-one__text,
 .progress-one__title a {
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .pricing-one__single-inner,
@@ -6193,15 +6193,15 @@ h3.testimonial-two__title {
 }
 
 .service-three__read-more:hover .service-three__arrow {
-    background-color: var(--vardhan-base);
-    color: var(--vardhan-white)
+    background-color: var(--dlight-base);
+    color: var(--dlight-white)
 }
 
 .progress-one__inner-container {
     position: relative;
     margin-top: -100px;
     padding: 80px 50px 60px;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .progress-one .progress-one__single {
@@ -6213,7 +6213,7 @@ h3.testimonial-two__title {
     position: relative;
     border-radius: 5px;
     padding: 40px 40px 30px;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .progress-one__single-inner:before {
@@ -6257,7 +6257,7 @@ h3.testimonial-two__title {
 }
 
 .progress-one__title a:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .progress-one__text {
@@ -6277,13 +6277,13 @@ h3.testimonial-two__title {
     border-radius: 3px;
     text-align: center;
     padding: 35px 50px 50px;
-    background-color: var(--vardhan-white);
-    border: 1px solid var(--vardhan-fourtyfive-color);
+    background-color: var(--dlight-white);
+    border: 1px solid var(--dlight-fourtyfive-color);
     transition: .3s
 }
 
 .pricing-one__single-inner:hover {
-    border-color: var(--vardhan-third-color)
+    border-color: var(--dlight-third-color)
 }
 
 .pricing-one__title {
@@ -6293,7 +6293,7 @@ h3.testimonial-two__title {
     font-size: var(--font-50);
     margin-bottom: var(--margin-bottom-45);
     padding-bottom: var(--padding-bottom-15);
-    border-bottom: 1px solid var(--vardhan-fourtysix-color)
+    border-bottom: 1px solid var(--dlight-fourtysix-color)
 }
 
 .pricing-one__price {
@@ -6320,7 +6320,7 @@ h3.testimonial-two__title {
     height: 80px;
     z-index: -1;
     border-radius: 50%;
-    background-color: var(--vardhan-sixteen-color)
+    background-color: var(--dlight-sixteen-color)
 }
 
 .comment-one__form,
@@ -6344,12 +6344,12 @@ h3.testimonial-two__title {
     padding: 16px 44px;
     border-radius: 4px;
     font-size: var(--font-18);
-    background-color: var(--vardhan-seven-color)
+    background-color: var(--dlight-seven-color)
 }
 
 .pricing-one__start-btn:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base)
+    color: var(--dlight-white);
+    background-color: var(--dlight-base)
 }
 
 .consultant-two {
@@ -6367,7 +6367,7 @@ h3.testimonial-two__title {
     right: 0;
     bottom: 0;
     opacity: .85;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .consultant-two__content {
@@ -6382,19 +6382,19 @@ h3.testimonial-two__title {
     top: 0;
     right: 115px;
     bottom: 0;
-    border: 1px solid var(--vardhan-white)
+    border: 1px solid var(--dlight-white)
 }
 
 .consultant-two__icon {
     position: relative;
     line-height: 1em;
     font-size: var(--font-76);
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .consultant-two__phone-inner,
 .consultant-two__text {
-    color: var(--vardhan-thirtyeight-color);
+    color: var(--dlight-thirtyeight-color);
     font-weight: 400
 }
 
@@ -6431,14 +6431,14 @@ h3.testimonial-two__title {
     line-height: 60px;
     font-size: var(--font-26);
     border-radius: 50px;
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-nineteen-color)
+    color: var(--dlight-white);
+    background-color: var(--dlight-nineteen-color)
 }
 
 .consultant-two__phone-number,
 .consultant-two__text,
 .consultant-two__title {
-    color: var(--vardhan-thirtyeight-color)
+    color: var(--dlight-thirtyeight-color)
 }
 
 .consultant-two__phone-number {
@@ -6455,7 +6455,7 @@ h3.testimonial-two__title {
 }
 
 .consultant-two__phone-number:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .consultant-two__form-box {
@@ -6463,13 +6463,13 @@ h3.testimonial-two__title {
     padding: 55px;
     border-radius: 4px;
     margin-left: var(--margin-left-65);
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     box-shadow: 0 0 10px rgba(0, 0, 0, .1)
 }
 
 .faq-email,
 .sidebar-widget__content {
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .consultant-two__title {
@@ -6511,14 +6511,14 @@ h3.testimonial-two__title {
     -o-transition: .3s;
     background: var(--roofie-white);
     -webkit-transition: .3s;
-    color: var(--vardhan-thirtyeight-color);
-    border: 1px solid var(--vardhan-thirtynine-color);
+    color: var(--dlight-thirtyeight-color);
+    border: 1px solid var(--dlight-thirtynine-color);
     -moz-transition: .3s
 }
 
 .page__breadcrumb li,
 .page__breadcrumb li a:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .consultant-two__form .form-group input::-webkit-input-placeholder,
@@ -6583,7 +6583,7 @@ h3.testimonial-two__title {
     position: relative;
     font-weight: 700;
     font-size: var(--font-75);
-    color: var(--vardhan-white)
+    color: var(--dlight-white)
 }
 
 .page__breadcrumb li {
@@ -6626,7 +6626,7 @@ h3.testimonial-two__title {
 
 .page__breadcrumb li a {
     font-weight: 400;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     text-transform: capitalize;
     transition: .3s;
     -moz-transition: .3s;
@@ -6646,14 +6646,14 @@ h3.testimonial-two__title {
     line-height: 65px;
     font-size: var(--font-65);
     margin-bottom: var(--margin-bottom-25);
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .purpose-one__text {
     position: relative;
     line-height: 34px;
     font-size: var(--font-18);
-    color: var(--vardhan-eight-color);
+    color: var(--dlight-eight-color);
     margin-bottom: var(--margin-bottom-50)
 }
 
@@ -6668,7 +6668,7 @@ h3.testimonial-two__title {
     font-weight: 700;
     line-height: 40px;
     font-size: var(--font-36);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-15)
 }
 
@@ -6676,7 +6676,7 @@ h3.testimonial-two__title {
     position: relative;
     line-height: 34px;
     font-size: var(--font-18);
-    color: var(--vardhan-eight-color);
+    color: var(--dlight-eight-color);
     padding-right: var(--padding-right-30);
     margin-bottom: var(--margin-bottom-20)
 }
@@ -6736,11 +6736,11 @@ h3.testimonial-two__title {
     font-weight: 700;
     line-height: 34px;
     font-size: var(--font-30);
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .team-one__name a {
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     transition: .3s;
     -moz-transition: .3s;
     -webkit-transition: .3s;
@@ -6758,14 +6758,14 @@ h3.testimonial-two__title {
 .faq-two__title,
 .history-two__text span,
 .team-one__social-box a {
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .team-one__social-box {
     position: relative;
     margin-top: var(--margin-top-20);
     padding-top: var(--padding-top-25);
-    border-top: 1px solid var(--vardhan-fifteen-color)
+    border-top: 1px solid var(--dlight-fifteen-color)
 }
 
 .team-one__social-box a {
@@ -6776,7 +6776,7 @@ h3.testimonial-two__title {
     border-radius: 50%;
     margin: 0 5px;
     font-size: var(--font-18);
-    background-color: var(--vardhan-fourtyseven-color);
+    background-color: var(--dlight-fourtyseven-color);
     transition: .3s;
     -moz-transition: .3s;
     -webkit-transition: .3s;
@@ -6785,8 +6785,8 @@ h3.testimonial-two__title {
 }
 
 .team-one__social-box a:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base)
+    color: var(--dlight-white);
+    background-color: var(--dlight-base)
 }
 
 .faq-two {
@@ -6810,17 +6810,17 @@ h3.testimonial-two__title {
     font-weight: 600;
     display: inline-block;
     font-size: var(--font-24);
-    color: var(--vardhan-base);
+    color: var(--dlight-base);
     padding: 29px 0 29px 50px;
     margin-top: var(--margin-top-90);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .history-two__text,
 .history-two__text-five,
 .history-two__text-two {
     font-size: var(--font-20);
-    color: var(--vardhan-fourteen-color);
+    color: var(--dlight-fourteen-color);
     line-height: 34px
 }
 
@@ -6829,14 +6829,14 @@ h3.testimonial-two__title {
     margin-top: -10px;
     position: relative;
     font-weight: 700;
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .faq-email a {
     position: relative;
     padding: 26px 30px;
     margin-left: var(--margin-left-50);
-    background-color: var(--vardhan-fourtyeight-color);
+    background-color: var(--dlight-fourtyeight-color);
     transition: .3s;
     -moz-transition: .3s;
     -webkit-transition: .3s;
@@ -6873,7 +6873,7 @@ h3.testimonial-two__title {
     top: 30px;
     font-weight: 700;
     font-size: var(--font-75);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .history-two__text-five,
@@ -6883,7 +6883,7 @@ h3.testimonial-two__title {
 
 .history-two__title {
     font-size: var(--font-75);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-10)
 }
 
@@ -6892,13 +6892,13 @@ h3.testimonial-two__title {
     position: relative;
     line-height: 34px;
     font-size: var(--font-20);
-    color: var(--vardhan-fourteen-color);
+    color: var(--dlight-fourteen-color);
     margin-bottom: var(--margin-bottom-25)
 }
 
 .history-two__title-two {
     font-size: var(--font-75);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-15)
 }
 
@@ -6914,7 +6914,7 @@ h3.testimonial-two__title {
     top: 10px;
     width: 1px;
     height: 102%;
-    background-color: var(--vardhan-twentythree-color)
+    background-color: var(--dlight-twentythree-color)
 }
 
 .service-detail {
@@ -6947,7 +6947,7 @@ h3.testimonial-two__title {
     bottom: 10px;
     right: 10px;
     border-radius: 3px;
-    border: 1px solid var(--vardhan-fourtynine-color)
+    border: 1px solid var(--dlight-fourtynine-color)
 }
 
 .service-details__title {
@@ -6966,7 +6966,7 @@ h3.testimonial-two__title {
     bottom: 0;
     width: 65px;
     height: 3px;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .service-details__title::after {
@@ -6976,7 +6976,7 @@ h3.testimonial-two__title {
     bottom: 0;
     width: 20px;
     height: 3px;
-    background-color: var(--vardhan-primary)
+    background-color: var(--dlight-primary)
 }
 
 .service-details__cagegory-list li {
@@ -6995,14 +6995,14 @@ h3.testimonial-two__title {
     -webkit-transition: .5s;
     -ms-transition: .5s;
     -o-transition: .5s;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     border-left: 2px solid transparent;
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .service-details__cagegory-list li a:hover,
 .service-details__cagegory-list li.active a {
-    border-color: var(--vardhan-base)
+    border-color: var(--dlight-base)
 }
 
 .service-details__cagegory-list li.active .arrow,
@@ -7010,8 +7010,8 @@ h3.testimonial-two__title {
 .styled-pagination li a.active,
 .styled-pagination li a:hover,
 .styled-pagination li.next a:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-primary)
+    color: var(--dlight-white);
+    background-color: var(--dlight-primary)
 }
 
 .service-details__cagegory-list .arrow {
@@ -7032,7 +7032,7 @@ h3.testimonial-two__title {
     -webkit-transition: .5s;
     -ms-transition: .5s;
     -o-transition: .5s;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .service-details__cagegory-list li .numbering {
@@ -7040,7 +7040,7 @@ h3.testimonial-two__title {
     right: 70px;
     font-weight: 600;
     font-size: var(--font-20);
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .service-details__contractor {
@@ -7080,7 +7080,7 @@ h3.testimonial-two__title {
     text-align: center;
     padding: 30px 50px 40px;
     background-size: cover;
-    background-color: var(--vardhan-twenty-color)
+    background-color: var(--dlight-twenty-color)
 }
 
 .service-details__contractor-icon {
@@ -7092,12 +7092,12 @@ h3.testimonial-two__title {
     line-height: 86px;
     border-radius: 50px;
     font-size: var(--font-40);
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .service-detail__solution-icon,
 .styled-pagination li a {
-    background-color: var(--vardhan-fifteen-color);
+    background-color: var(--dlight-fifteen-color);
     text-align: center
 }
 
@@ -7106,7 +7106,7 @@ h3.testimonial-two__title {
     font-weight: 600;
     line-height: 38px;
     font-size: var(--font-36);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     margin-top: var(--margin-top-15)
 }
 
@@ -7114,7 +7114,7 @@ h3.testimonial-two__title {
 .service-details__contractor-quote {
     position: relative;
     line-height: 25.6px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     margin-top: var(--margin-top-20)
 }
 
@@ -7127,7 +7127,7 @@ h3.testimonial-two__title {
     font-weight: 600;
     font-size: var(--font-38);
     display: inline-block;
-    font-family: var(--vardhan-smooch-font);
+    font-family: var(--dlight-smooch-font);
     transition: .5s;
     -moz-transition: .5s;
     -webkit-transition: .5s;
@@ -7141,12 +7141,12 @@ h3.testimonial-two__title {
 .service-detail__text-two,
 .service-detail__title,
 .service-detail__title-two {
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     position: relative
 }
 
 .service-details__contractor-phone:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .service-detail__title {
@@ -7186,8 +7186,8 @@ h3.testimonial-two__title {
     padding-top: var(--padding-top-5);
     margin-bottom: var(--margin-bottom-40);
     padding-right: var(--padding-right-50);
-    font-family: var(--vardhan-dmsans-font);
-    color: rgba(var(--vardhan-third-color-rgb), .8)
+    font-family: var(--dlight-dmsans-font);
+    color: rgba(var(--dlight-third-color-rgb), .8)
 }
 
 .service-detail__solution-icon {
@@ -7198,14 +7198,14 @@ h3.testimonial-two__title {
     height: 120px;
     line-height: 120px;
     font-size: var(--font-70);
-    color: var(--vardhan-black);
+    color: var(--dlight-black);
     border-radius: 0 3px 3px 0;
-    border-left: 1px solid var(--vardhan-primary)
+    border-left: 1px solid var(--dlight-primary)
 }
 
 .service-detail__solution-single:nth-child(2) .service-detail__solution-icon {
-    background-color: var(--vardhan-seven-color);
-    border-color: var(--vardhan-base)
+    background-color: var(--dlight-seven-color);
+    border-color: var(--dlight-base)
 }
 
 .service-detail__image img {
@@ -7222,7 +7222,7 @@ h3.testimonial-two__title {
     position: relative;
     font-weight: 700;
     font-size: var(--font-36);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-15)
 }
 
@@ -7235,12 +7235,12 @@ h3.testimonial-two__title {
 
 .service-detail__text-three {
     line-height: 34px;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     padding-right: var(--padding-right-30)
 }
 
 .service-detail__list li {
-    color: var(--vardhan-thirtyeight-color);
+    color: var(--dlight-thirtyeight-color);
     padding-left: var(--padding-left-30)
 }
 
@@ -7261,8 +7261,8 @@ h3.testimonial-two__title {
     margin-top: var(--margin-top-60);
     margin-bottom: var(--margin-bottom-50);
     padding-right: var(--padding-right-80);
-    font-family: var(--vardhan-dmsans-font);
-    color: rgba(var(--vardhan-third-color-rgb), .8)
+    font-family: var(--dlight-dmsans-font);
+    color: rgba(var(--dlight-third-color-rgb), .8)
 }
 
 .service-detail__accordian-title {
@@ -7271,7 +7271,7 @@ h3.testimonial-two__title {
     line-height: 64px;
     font-size: var(--font-36);
     margin-top: var(--margin-top-10);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-20)
 }
 
@@ -7293,7 +7293,7 @@ h3.testimonial-two__title {
     position: relative;
     border-radius: 3px;
     margin-bottom: var(--margin-bottom-20);
-    border: 1px solid var(--vardhan-fifteen-color)
+    border: 1px solid var(--dlight-fifteen-color)
 }
 
 .service-detail__acc-btn {
@@ -7309,9 +7309,9 @@ h3.testimonial-two__title {
     -ms-transition: .5s;
     -o-transition: .5s;
     -moz-transition: .5s;
-    color: var(--vardhan-thirtyeight-color);
+    color: var(--dlight-thirtyeight-color);
     -webkit-transition: .5s;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .service-detail__acc-btn.active .service-detail__faq-icon {
@@ -7373,8 +7373,8 @@ h3.testimonial-two__title {
     -webkit-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
-    font-family: var(--vardhan-smooch-font);
-    border: 1px solid var(--vardhan-fifty-color)
+    font-family: var(--dlight-smooch-font);
+    border: 1px solid var(--dlight-fifty-color)
 }
 
 .news-detail__meta li:last-child,
@@ -7390,9 +7390,9 @@ h3.testimonial-two__title {
 
 .project-four .filters .filter.active,
 .project-four .filters .filter:hover {
-    color: var(--vardhan-white);
-    border-color: var(--vardhan-primary);
-    background-color: var(--vardhan-primary)
+    color: var(--dlight-white);
+    border-color: var(--dlight-primary);
+    background-color: var(--dlight-primary)
 }
 
 .project-four .filters .filter.active::before,
@@ -7414,12 +7414,12 @@ h3.testimonial-two__title {
     border-radius: 50px;
     display: inline-block;
     font-size: var(--font-18);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     transition: .3s;
     -webkit-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .project-four__image img {
@@ -7461,7 +7461,7 @@ h3.testimonial-two__title {
     right: 0;
     bottom: 0;
     opacity: .54;
-    background-color: var(--vardhan-fiftyone-color)
+    background-color: var(--dlight-fiftyone-color)
 }
 
 .project-four__content {
@@ -7469,7 +7469,7 @@ h3.testimonial-two__title {
     left: 40px;
     bottom: 40px;
     padding-left: var(--padding-left-20);
-    border-left: 4px solid var(--vardhan-white)
+    border-left: 4px solid var(--dlight-white)
 }
 
 .project-four__title {
@@ -7479,7 +7479,7 @@ h3.testimonial-two__title {
 
 .project-four__title a {
     position: relative;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     transition: .3s;
     -webkit-transition: .3s;
     -ms-transition: .3s;
@@ -7487,7 +7487,7 @@ h3.testimonial-two__title {
 }
 
 .project-four__title a:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .project-four__arrow {
@@ -7497,9 +7497,9 @@ h3.testimonial-two__title {
     text-align: center;
     display: inline-block;
     font-size: var(--font-20);
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     border-radius: 3px 50px 50px 3px;
-    background-color: var(--vardhan-primary);
+    background-color: var(--dlight-primary);
     transition: .3s;
     -webkit-transition: .3s;
     -ms-transition: .3s;
@@ -7509,13 +7509,13 @@ h3.testimonial-two__title {
 .project-detail__title,
 .project-detail__title-two {
     font-weight: 700;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     position: relative
 }
 
 .project-four__arrow:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base)
+    color: var(--dlight-white);
+    background-color: var(--dlight-base)
 }
 
 .project-detail .choose-one__single-inner::before,
@@ -7551,7 +7551,7 @@ h3.testimonial-two__title {
     position: relative;
     line-height: 34px;
     font-size: var(--font-20);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-30)
 }
 
@@ -7559,7 +7559,7 @@ h3.testimonial-two__title {
 .project-detail__title-three {
     font-size: var(--font-36);
     margin-top: var(--margin-top-30);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     position: relative;
     font-weight: 700
 }
@@ -7595,7 +7595,7 @@ h3.testimonial-two__title {
     line-height: 32px;
     font-size: var(--font-30);
     padding-bottom: var(--padding-bottom-20);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .project-detail__info-title::before {
@@ -7605,7 +7605,7 @@ h3.testimonial-two__title {
     bottom: 0;
     width: 65px;
     height: 3px;
-    background-color: var(--vardhan-base)
+    background-color: var(--dlight-base)
 }
 
 .project-detail__info-title::after {
@@ -7615,14 +7615,14 @@ h3.testimonial-two__title {
     bottom: 0;
     width: 20px;
     height: 3px;
-    background-color: var(--vardhan-primary)
+    background-color: var(--dlight-primary)
 }
 
 .project-detail__info li {
     font-weight: 500;
     font-size: var(--font-18);
     padding-left: var(--padding-left-55);
-    color: rgba(var(--vardhan-thirtyeight-color-rgb), .7)
+    color: rgba(var(--dlight-thirtyeight-color-rgb), .7)
 }
 
 .project-detail__info li .icon {
@@ -7631,20 +7631,20 @@ h3.testimonial-two__title {
     top: 0;
     line-height: 1em;
     font-size: var(--font-40);
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .project-detail__info li strong {
     position: relative;
     display: block;
     margin-top: var(--margin-top-5);
-    color: var(--vardhan-thirtyeight-color)
+    color: var(--dlight-thirtyeight-color)
 }
 
 .project-detail__text-five,
 .project-detail__text-four,
 .styled-pagination li a {
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     position: relative
 }
 
@@ -7653,13 +7653,13 @@ h3.testimonial-two__title {
     font-size: var(--font-18);
     padding-left: var(--padding-left-30);
     margin-bottom: var(--margin-bottom-25);
-    color: rgba(var(--vardhan-thirtyeight-color-rgb), .8)
+    color: rgba(var(--dlight-thirtyeight-color-rgb), .8)
 }
 
 .sidebar__post-list a,
 .styled-pagination li a {
     font-size: var(--font-24);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .project-detail__list li:before {
@@ -7709,7 +7709,7 @@ h3.testimonial-two__title {
 }
 
 .styled-pagination li.next a {
-    background-color: var(--vardhan-fiftytwo-color)
+    background-color: var(--dlight-fiftytwo-color)
 }
 
 .blog-search__box .form-group input[type=search],
@@ -7730,7 +7730,7 @@ h3.testimonial-two__title {
     -ms-transition: .5s;
     -o-transition: .5s;
     padding: 10px 50px 10px 25px;
-    background: var(--vardhan-white)
+    background: var(--dlight-white)
 }
 
 .blog-search__box .form-group button {
@@ -7746,8 +7746,8 @@ h3.testimonial-two__title {
     border-radius: 50px;
     line-height: 50px;
     font-size: var(--font-18);
-    color: var(--vardhan-twentyeight-color);
-    background: var(--vardhan-fifteen-color);
+    color: var(--dlight-twentyeight-color);
+    background: var(--dlight-fifteen-color);
     transition: .5s;
     -moz-transition: .5s;
     -webkit-transition: .5s;
@@ -7756,8 +7756,8 @@ h3.testimonial-two__title {
 }
 
 .blog-search__box .form-group button:hover {
-    color: var(--vardhan-white);
-    background: var(--vardhan-primary)
+    color: var(--dlight-white);
+    background: var(--dlight-primary)
 }
 
 .sidebar__post-list li {
@@ -7765,7 +7765,7 @@ h3.testimonial-two__title {
     min-height: 128px;
     margin-bottom: var(--margin-bottom-30);
     padding-left: var(--padding-left-105);
-    border-bottom: 1px solid var(--vardhan-fourtynine-color)
+    border-bottom: 1px solid var(--dlight-fourtynine-color)
 }
 
 .sidebar__post-list li:last-child {
@@ -7790,7 +7790,7 @@ h3.testimonial-two__title {
 .sidebar__post-list a {
     display: block;
     position: relative;
-    color: var(--vardhan-third-color)
+    color: var(--dlight-third-color)
 }
 
 .sidebar__post-content-meta {
@@ -7804,7 +7804,7 @@ h3.testimonial-two__title {
     left: 0;
     top: 0;
     font-family: icomoon;
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .sidebar__post-list a {
@@ -7819,7 +7819,7 @@ h3.testimonial-two__title {
 }
 
 .sidebar__post-list a:hover {
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .sidebar__tags-list a {
@@ -7828,10 +7828,10 @@ h3.testimonial-two__title {
     border-radius: 3px;
     display: inline-block;
     font-size: var(--font-16);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-right: var(--margin-right-5);
     margin-bottom: var(--margin-bottom-10);
-    background-color: var(--vardhan-white);
+    background-color: var(--dlight-white);
     font-weight: 600;
     transition: .5s;
     -moz-transition: .5s;
@@ -7849,8 +7849,8 @@ h3.testimonial-two__title {
 }
 
 .sidebar__tags-list a:hover {
-    color: var(--vardhan-white);
-    background: var(--vardhan-primary)
+    color: var(--dlight-white);
+    background: var(--dlight-primary)
 }
 
 .news-three {
@@ -7872,7 +7872,7 @@ h3.testimonial-two__title {
 .news-three__img {
     position: relative;
     overflow: hidden;
-    background: var(--vardhan-primary)
+    background: var(--dlight-primary)
 }
 
 .news-three__img img {
@@ -7902,9 +7902,9 @@ h3.testimonial-two__title {
     bottom: 20px;
     padding: 6px 14px 3px;
     border-radius: 3px;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     font-size: var(--font-16);
-    background-color: var(--vardhan-nineteen-color)
+    background-color: var(--dlight-nineteen-color)
 }
 
 .news-three__content {
@@ -7912,7 +7912,7 @@ h3.testimonial-two__title {
     padding: 40px;
     border-top: none;
     border-radius: 0 0 5px 5px;
-    border: 1px solid var(--vardhan-fourty-color)
+    border: 1px solid var(--dlight-fourty-color)
 }
 
 .news-three__title {
@@ -7924,7 +7924,7 @@ h3.testimonial-two__title {
 
 .news-three__title a {
     position: relative;
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     transition: .3s
 }
 
@@ -7932,12 +7932,12 @@ h3.testimonial-two__title {
 .news-three__meta li a {
     display: inline-block;
     font-size: var(--font-16);
-    color: rgba(var(--vardhan-twentysix-color-rgb), .8);
+    color: rgba(var(--dlight-twentysix-color-rgb), .8);
     position: relative
 }
 
 .news-three__title a:hover {
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .news-three__meta li {
@@ -7954,7 +7954,7 @@ h3.testimonial-two__title {
 .news-three__meta li a i {
     top: 2px;
     line-height: 1em;
-    color: var(--vardhan-twentysix-color);
+    color: var(--dlight-twentysix-color);
     position: absolute;
     left: 0
 }
@@ -7965,7 +7965,7 @@ h3.testimonial-two__title {
     font-size: var(--font-18);
     margin-top: var(--margin-top-15);
     margin-bottom: var(--margin-bottom-20);
-    color: rgba(var(--vardhan-third-color-rgb), .8)
+    color: rgba(var(--dlight-third-color-rgb), .8)
 }
 
 .news-detail__text,
@@ -7977,8 +7977,8 @@ h3.testimonial-two__title {
     position: relative;
     font-weight: 500;
     font-size: var(--font-18);
-    color: var(--vardhan-third-color);
-    font-family: var(--vardhan-catamaran-font);
+    color: var(--dlight-third-color);
+    font-family: var(--dlight-catamaran-font);
     transition: .3s
 }
 
@@ -7990,7 +7990,7 @@ h3.testimonial-two__title {
     line-height: 28px;
     text-align: center;
     display: inline-block;
-    color: var(--vardhan-white);
+    color: var(--dlight-white);
     border-radius: 3px 50px 50px 3px;
     margin-left: var(--margin-left-10);
     -webkit-transition: .3s;
@@ -7998,22 +7998,22 @@ h3.testimonial-two__title {
     -o-transition: .3s;
     -moz-transition: .3s;
     transition: .3s;
-    background-color: var(--vardhan-third-color)
+    background-color: var(--dlight-third-color)
 }
 
 .news-three__read-more:hover {
-    color: var(--vardhan-base)
+    color: var(--dlight-base)
 }
 
 .news-three__read-more:hover .news-three__arrow {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-nineteen-color)
+    color: var(--dlight-white);
+    background-color: var(--dlight-nineteen-color)
 }
 
 .news-detail__list li:before,
 .news-detail__more-posts .next-post:hover,
 .news-detail__more-posts .prev-post:hover {
-    color: var(--vardhan-primary)
+    color: var(--dlight-primary)
 }
 
 .download-section,
@@ -8032,7 +8032,7 @@ h3.testimonial-two__title {
     font-weight: 700;
     line-height: 55px;
     font-size: var(--font-50);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-25)
 }
 
@@ -8041,7 +8041,7 @@ h3.testimonial-two__title {
 .news-detail__text-two {
     line-height: 32px;
     font-size: var(--font-18);
-    color: rgba(var(--vardhan-third-color-rgb), .8)
+    color: rgba(var(--dlight-third-color-rgb), .8)
 }
 
 .news-detail__meta li {
@@ -8088,22 +8088,22 @@ h3.testimonial-two__title {
     font-size: var(--font-30);
     padding-left: var(--padding-left-25);
     padding-right: var(--padding-right-20);
-    color: var(--vardhan-thirtyeight-color);
-    font-family: var(--vardhan-smooch-font);
-    border-left: 6px solid var(--vardhan-fiftythree-color)
+    color: var(--dlight-thirtyeight-color);
+    font-family: var(--dlight-smooch-font);
+    border-left: 6px solid var(--dlight-fiftythree-color)
 }
 
 .news-detail__list li,
 .news-detail__text-four {
     line-height: 32px;
     font-size: var(--font-18);
-    color: rgba(var(--vardhan-third-color-rgb), .8);
+    color: rgba(var(--dlight-third-color-rgb), .8);
     position: relative
 }
 
 .news-detail__social-box a:hover,
 .news-details__social-list a:hover {
-    border-color: var(--vardhan-primary)
+    border-color: var(--dlight-primary)
 }
 
 .news-detail__list li {
@@ -8122,8 +8122,8 @@ h3.testimonial-two__title {
 .news-detail__social-box a:hover,
 .news-details__social-list a:hover,
 .news-details__tags a:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-primary)
+    color: var(--dlight-white);
+    background-color: var(--dlight-primary)
 }
 
 .news-detail__text-four {
@@ -8135,13 +8135,13 @@ h3.testimonial-two__title {
 .news-details__tags span {
     font-weight: 700;
     font-size: var(--font-30);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .news-details__tags span {
     position: relative;
     margin-right: var(--margin-right-5);
-    color: var(--vardhan-thirtyeight-color)
+    color: var(--dlight-thirtyeight-color)
 }
 
 .news-details__tags a {
@@ -8153,8 +8153,8 @@ h3.testimonial-two__title {
     margin-bottom: var(--margin-bottom-10);
     font-size: var(--font-16);
     transition: .5s;
-    color: rgba(var(--vardhan-third-color-rgb), .8);
-    background-color: var(--vardhan-fifteen-color)
+    color: rgba(var(--dlight-third-color-rgb), .8);
+    background-color: var(--dlight-fifteen-color)
 }
 
 .news-detail__social-box a,
@@ -8162,7 +8162,7 @@ h3.testimonial-two__title {
     line-height: 42px;
     text-align: center;
     border-radius: 50px;
-    color: var(--vardhan-thirtyeight-color);
+    color: var(--dlight-thirtyeight-color);
     -webkit-transition: .5s;
     -moz-transition: .5s;
     -ms-transition: .5s;
@@ -8176,7 +8176,7 @@ h3.testimonial-two__title {
     display: inline-block;
     font-size: var(--font-18);
     margin-left: var(--margin-left-5);
-    border: 1px solid var(--vardhan-thirtyeight-color);
+    border: 1px solid var(--dlight-thirtyeight-color);
     transition: .5s
 }
 
@@ -8187,7 +8187,7 @@ h3.testimonial-two__title {
     padding: 45px 30px 40px;
     margin-top: var(--margin-top-60);
     margin-bottom: var(--margin-bottom-65);
-    background-color: var(--vardhan-fiftyfour-color)
+    background-color: var(--dlight-fiftyfour-color)
 }
 
 .news-detail__author-inner {
@@ -8220,7 +8220,7 @@ h3.testimonial-two__title {
 
 .news-detail__author-name {
     line-height: 26.6px;
-    color: var(--vardhan-fiftyfive-color)
+    color: var(--dlight-fiftyfive-color)
 }
 
 .news-detail__author-text {
@@ -8230,7 +8230,7 @@ h3.testimonial-two__title {
     opacity: .8;
     font-size: var(--font-18);
     margin-top: var(--margin-top-10);
-    color: var(--vardhan-fiftyfive-color)
+    color: var(--dlight-fiftyfive-color)
 }
 
 .news-detail__social-box {
@@ -8242,7 +8242,7 @@ h3.testimonial-two__title {
     height: 44px;
     font-size: var(--font-18);
     margin-right: var(--margin-right-5);
-    border: 1px solid var(--vardhan-thirtyeight-color);
+    border: 1px solid var(--dlight-thirtyeight-color);
     transition: .5s
 }
 
@@ -8262,31 +8262,31 @@ h3.testimonial-two__title {
 .news-detail__more-posts .prev-post {
     line-height: 34px;
     font-size: var(--font-24);
-    color: var(--vardhan-fiftyfive-color);
+    color: var(--dlight-fiftyfive-color);
     -webkit-transition: .5s;
     -moz-transition: .5s;
     -ms-transition: .5s;
     -o-transition: .5s;
     font-weight: 700;
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .comment-one__single,
 .news-detail__more-posts {
     position: relative;
-    border-bottom: 1px solid var(--vardhan-fifteen-color)
+    border-bottom: 1px solid var(--dlight-fifteen-color)
 }
 
 .comment-one__reply-btn,
 .news-detail__more-posts .next-post span,
 .news-detail__more-posts .prev-post span {
     display: inline-block;
-    background-color: var(--vardhan-fifteen-color)
+    background-color: var(--dlight-fifteen-color)
 }
 
 .news-detail__more-posts {
     padding: 19px 0;
-    border-top: 1px solid var(--vardhan-fifteen-color)
+    border-top: 1px solid var(--dlight-fifteen-color)
 }
 
 .news-detail__more-posts .prev-post {
@@ -8319,9 +8319,9 @@ h3.testimonial-two__title {
     position: relative;
     font-weight: 700;
     font-size: var(--font-36);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-35);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .comment-one__single {
@@ -8344,15 +8344,15 @@ h3.testimonial-two__title {
     position: relative;
     font-weight: 600;
     font-size: var(--font-30);
-    color: var(--vardhan-third-color);
+    color: var(--dlight-third-color);
     margin-bottom: var(--margin-bottom-10);
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .comment-one__time {
     position: relative;
     font-size: var(--font-16);
-    color: rgba(var(--vardhan-third-color-rgb), .7)
+    color: rgba(var(--dlight-third-color-rgb), .7)
 }
 
 .comment-one__text {
@@ -8360,14 +8360,14 @@ h3.testimonial-two__title {
     line-height: 32px;
     font-size: var(--font-18);
     margin-top: var(--margin-top-5);
-    color: rgba(var(--vardhan-third-color-rgb), .8)
+    color: rgba(var(--dlight-third-color-rgb), .8)
 }
 
 .comment-form__title,
 .comment-one__reply-btn {
     font-weight: 700;
-    color: var(--vardhan-third-color);
-    font-family: var(--vardhan-smooch-font)
+    color: var(--dlight-third-color);
+    font-family: var(--dlight-smooch-font)
 }
 
 .comment-one__reply-btn {
@@ -8386,8 +8386,8 @@ h3.testimonial-two__title {
 }
 
 .comment-one__reply-btn:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-primary)
+    color: var(--dlight-white);
+    background-color: var(--dlight-primary)
 }
 
 .comment-one__reply-comment {
@@ -8439,12 +8439,12 @@ h3.testimonial-two__title {
     -webkit-transition: .5s;
     -ms-transition: .5s;
     -o-transition: .5s;
-    background-color: var(--vardhan-fiftyfour-color)
+    background-color: var(--dlight-fiftyfour-color)
 }
 
 .comment-one__form-box .form-group input::-webkit-input-placeholder,
 .comment-one__form-box .form-group textarea::-webkit-input-placeholder {
-    color: rgba(var(--vardhan-third-color-rgb), .6);
+    color: rgba(var(--dlight-third-color-rgb), .6);
     font-weight: 400
 }
 
@@ -8482,14 +8482,14 @@ h3.testimonial-two__title {
     position: relative;
     font-weight: 600;
     margin-top: var(--margin-top-25);
-    color: var(--vardhan-thirtyeight-color);
-    font-family: var(--vardhan-catamaran-font)
+    color: var(--dlight-thirtyeight-color);
+    font-family: var(--dlight-catamaran-font)
 }
 
 .contact-one__info li,
 .home-video-title,
 .icon-block-product .a-link {
-    font-family: var(--vardhan-smooch-font)
+    font-family: var(--dlight-smooch-font)
 }
 
 .error-page__text {
@@ -8497,7 +8497,7 @@ h3.testimonial-two__title {
     font-weight: 400;
     font-size: var(--font-20);
     margin-top: var(--margin-top-20);
-    color: rgba(var(--vardhan-thirtyeight-color-rgb), .8)
+    color: rgba(var(--dlight-thirtyeight-color-rgb), .8)
 }
 
 .error-home__btn {
@@ -8508,19 +8508,19 @@ h3.testimonial-two__title {
     font-size: var(--font-18);
     text-transform: capitalize;
     margin-top: var(--margin-top-40);
-    color: var(--vardhan-thirtyeight-color);
-    border: 2px solid var(--vardhan-base)
+    color: var(--dlight-thirtyeight-color);
+    border: 2px solid var(--dlight-base)
 }
 
 .error-home__btn:hover {
-    color: var(--vardhan-white);
-    background-color: var(--vardhan-base)
+    color: var(--dlight-white);
+    background-color: var(--dlight-base)
 }
 
 .contact-one {
     position: relative;
     padding: 115px 0 90px;
-    background-color: var(--vardhan-fiftysix-color)
+    background-color: var(--dlight-fiftysix-color)
 }
 
 .contact-one__title {
@@ -8529,7 +8529,7 @@ h3.testimonial-two__title {
     line-height: 49px;
     font-size: var(--font-43);
     margin-right: -25px;
-    color: var(--vardhan-fiftyseven-color)
+    color: var(--dlight-fiftyseven-color)
 }
 
 .contact-one__text {
@@ -8539,7 +8539,7 @@ h3.testimonial-two__title {
     font-size: var(--font-18);
     margin-top: var(--margin-top-20);
     margin-bottom: var(--margin-bottom-40);
-    color: rgba(var(--vardhan-fiftyseven-color-rgb), .8)
+    color: rgba(var(--dlight-fiftyseven-color-rgb), .8)
 }
 
 .contact-one__info li {
@@ -8563,8 +8563,8 @@ h3.testimonial-two__title {
     border-radius: 50px;
     display: inline-block;
     font-size: var(--font-40);
-    color: var(--vardhan-six-color);
-    background-color: var(--vardhan-white)
+    color: var(--dlight-six-color);
+    background-color: var(--dlight-white)
 }
 
 .contact-one__info p {
@@ -8572,9 +8572,9 @@ h3.testimonial-two__title {
     line-height: 30px;
     font-weight: 400;
     font-size: var(--font-18);
-    color: var(--vardhan-six-color);
+    color: var(--dlight-six-color);
     margin-top: var(--margin-top-15);
-    font-family: var(--vardhan-catamaran-font)
+    font-family: var(--dlight-catamaran-font)
 }
 
 .contact-one__form-box {
@@ -8582,7 +8582,7 @@ h3.testimonial-two__title {
     padding: 50px 40px;
     border-radius: 4px;
     margin-left: var(--margin-left-50);
-    background-color: var(--vardhan-white)
+    background-color: var(--dlight-white)
 }
 
 .contact-one__title-two {
@@ -8590,7 +8590,7 @@ h3.testimonial-two__title {
     font-weight: 700;
     line-height: 26.4px;
     font-size: var(--font-36);
-    color: var(--vardhan-fiftyseven-color)
+    color: var(--dlight-fiftyseven-color)
 }
 
 .contact-one__text-two {
@@ -8600,7 +8600,7 @@ h3.testimonial-two__title {
     font-size: var(--font-18);
     margin-top: var(--margin-top-20);
     margin-bottom: var(--margin-bottom-35);
-    color: rgba(var(--vardhan-fiftyseven-color-rgb), .8)
+    color: rgba(var(--dlight-fiftyseven-color-rgb), .8)
 }
 
 .contact-form .row {
@@ -8636,14 +8636,14 @@ h3.testimonial-two__title {
     -o-transition: .3s;
     -moz-transition: .3s;
     transition: .3s;
-    background-color: var(--vardhan-fiftysix-color)
+    background-color: var(--dlight-fiftysix-color)
 }
 
 .contact-form .form-group input[type=email]:focus,
 .contact-form .form-group input[type=tel]:focus,
 .contact-form .form-group input[type=text]:focus,
 .contact-form .form-group textarea:focus {
-    color: rgba(var(--vardhan-third-color-rgb), .7)
+    color: rgba(var(--dlight-third-color-rgb), .7)
 }
 
 .contact-form input::placeholder,
@@ -8662,7 +8662,7 @@ h3.testimonial-two__title {
     color: var(--header-color);
     border-radius: 0;
     font-size: var(--font-16);
-    background-color: var(--vardhan-fiftysix-color);
+    background-color: var(--dlight-fiftysix-color);
     border: 2px solid transparent;
     -webkit-transition: .3s;
     -ms-transition: .3s;
@@ -9046,7 +9046,7 @@ h3.testimonial-two__title {
 
 .vision .container {
     max-width: 1400px;
-    background-color: var(--vardhan-fifteen-color);
+    background-color: var(--dlight-fifteen-color);
     background-image: url(../images/vision-bg.webp);
     background-position: center;
     background-attachment: fixed;
@@ -9064,7 +9064,7 @@ h3.testimonial-two__title {
 }
 
 .download-section .choose-one__single-inner {
-    background-color: var(--vardhan-fifteen-color);
+    background-color: var(--dlight-fifteen-color);
     min-height: unset
 }
 
@@ -9361,4 +9361,32 @@ a.whatsapp-sticky {
     left: 12px;
     z-index: 9999;
     bottom: 2%
+}
+
+.owner__name {
+    color: var(--dlight-primary);
+    margin-bottom: var(--margin-bottom-5);
+}
+
+.owner__title {
+    margin-bottom: var(--margin-bottom-15);
+}
+
+.owner__image {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    padding: 5px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--dlight-primary);
+    margin: 0 auto 25px;
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 50%;
+    }
 }

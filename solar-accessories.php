@@ -1,6 +1,8 @@
 <?php
 include_once('config.php');
 define('PAGE_NAME', "Solar Accessories");
+$active = 'product';
+$subactive = 'solar-accessories';
 include_once('common/head.php');
 ?>
 

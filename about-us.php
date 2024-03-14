@@ -1,6 +1,7 @@
 <?php
 include_once('config.php');
 define('PAGE_NAME', "About Us");
+$active = 'aboutus';
 include_once('common/head.php');
 ?>
 

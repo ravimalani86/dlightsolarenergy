@@ -1,6 +1,7 @@
 <?php
 include_once('config.php');
 define('PAGE_NAME', "Home page");
+$active = 'home';
 include_once('common/head.php');
 ?>
 
@@ -56,7 +57,7 @@ include_once('common/head.php');
                                                 <div class="energy-one__phone-inner">
                                                     <span class="energy-one__phone-icon icon-phone"></span>
                                                     The Future of Solar Energy<br>
-                                                    <a class="energy-one__phone-number" href="tel:+91 95120 20937">+91 95120 20937</a>
+                                                    <a class="energy-one__phone-number" href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a>
                                                 </div>
                                             </div>
 
@@ -101,7 +102,7 @@ include_once('common/head.php');
                         </div>
                         <div class="row clearfix">
 
-                            <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
+                            <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-pv.webp" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-panel.php"> Solar Panels </a></h3>
@@ -111,7 +112,7 @@ include_once('common/head.php');
                                 </div>
                             </div>
 
-                            <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
+                            <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/on-grid-inverter.webp" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>on-grid-inverter.php"> On-grid Inverter </a></h3>
@@ -121,7 +122,7 @@ include_once('common/head.php');
                                 </div>
                             </div>
 
-                            <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
+                            <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-accessories.webp" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-accessories.php"> Solar Accessories </a></h3>
@@ -131,7 +132,7 @@ include_once('common/head.php');
                                 </div>
                             </div>
 
-                            <!-- <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
+                            <!-- <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-water-heater.webp" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-water-heater.php"> Solar Water Heater </a></h3>
@@ -141,7 +142,7 @@ include_once('common/head.php');
                                 </div>
                             </div> -->
 
-                            <!-- <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
+                            <!-- <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/battery-inverter.webp" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>battery-inverter.php"> Battery Inverter </a></h3>
@@ -151,7 +152,7 @@ include_once('common/head.php');
                                 </div>
                             </div> -->
 
-                            <div class="service-one__single col-lg-4 col-md-12 col-sm-12">
+                            <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                                     <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-street-light.webp" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-street-light.php"> Solar Street Light </a></h3>

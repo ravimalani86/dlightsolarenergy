@@ -1,6 +1,8 @@
 <?php
 include_once('config.php');
 define('PAGE_NAME', "Solar Water Heater");
+$active = 'product';
+$subactive = 'solar-water-heater';
 include_once('common/head.php');
 ?>
 

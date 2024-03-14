@@ -51,9 +51,9 @@
                         <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                             <div class="menu-main-menu-container">
                                 <ul id="menu-main-menu" class="main-menu__navigation">
-                                    <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18 current_page_item menu-item-44"><a href="<?php echo BASE_PATH ?>" aria-current="page">Home</a></li>
-                                    <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="<?php echo BASE_PATH ?>about-us.php">About Us</a></li>
-                                    <li id="menu-item-405" class="dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-405"><a href="#">Products</a>
+                                    <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44 menu-item-home page_item page-item-18 <?php echo ($active === 'home') ? 'current-menu-item' : ''; ?>"><a href="<?php echo BASE_PATH ?>" aria-current="page">Home</a></li>
+                                    <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43 <?php echo ($active === 'aboutus') ? 'current-menu-item' : ''; ?>"><a href="<?php echo BASE_PATH ?>about-us.php">About Us</a></li>
+                                    <li id="menu-item-405" class="dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-405 <?php echo ($active === 'product') ? 'current-menu-item' : ''; ?>"><a href="#">Products</a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-417"><a href="<?php echo BASE_PATH ?>solar-panel.php">Solar Panels</a></li>
                                             <li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-416"><a href="<?php echo BASE_PATH ?>on-grid-inverter.php">On-Grid Inverters</a></li>
@@ -63,9 +63,9 @@
                                             <li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-412"><a href="<?php echo BASE_PATH ?>solar-street-light.php">Solar Street Light</a></li>
                                         </ul>
                                     </li>
-                                    <li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="<?php echo BASE_PATH ?>epc.php">EPC</a></li>
+                                    <li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552 <?php echo ($active === 'epc') ? 'current-menu-item' : ''; ?>"><a href="<?php echo BASE_PATH ?>epc.php">EPC</a></li>
                                     <!-- <li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="<?php echo BASE_PATH ?>download.php">Download</a></li> -->
-                                    <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="<?php echo BASE_PATH ?>contact-us.php">Contact Us</a></li>
+                                    <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54 <?php echo ($active === 'contactus') ? 'current-menu-item' : ''; ?>"><a href="<?php echo BASE_PATH ?>contact-us.php">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>

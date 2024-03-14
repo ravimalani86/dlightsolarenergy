@@ -1,6 +1,7 @@
 <?php
 include_once('config.php');
 define('PAGE_NAME', "Download");
+$active = 'download';
 include_once('common/head.php');
 ?>
 

@@ -3629,7 +3629,7 @@ img {
     position: relative;
     overflow: hidden;
     text-align: center;
-    padding: 15px 35px 50px;
+    padding: 15px 15px 50px;
     background-color: var(--dlight-white)
 }
 

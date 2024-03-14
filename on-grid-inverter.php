@@ -1,6 +1,8 @@
 <?php
 include_once('config.php');
 define('PAGE_NAME', "On-grid Inverter");
+$active = 'product';
+$subactive = 'on-grid-inverter';
 include_once('common/head.php');
 ?>
 

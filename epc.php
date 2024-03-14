@@ -1,6 +1,7 @@
 <?php
 include_once('config.php');
 define('PAGE_NAME', "EPC");
+$active = 'epc';
 include_once('common/head.php');
 ?>
 

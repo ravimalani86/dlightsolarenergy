@@ -10,3 +10,4 @@ define('INSTAGRAM', "https://www.instagram.com/dlightsolarenergy/?igsh=eG53Y2dkN
 define('FACEBOOK', "https://www.facebook.com/dlightsolarenergy");
 define('TWITTER', "https://twitter.com/dlightsolarenergy");
 define('PINTEREST', "https://www.pinterest.com/dlightsolarenergy");
+define('YOUTUBE', "https://www.youtube.com/@dlightsolarenergy");

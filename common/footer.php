@@ -16,8 +16,9 @@
                                 <ul class="mobile-menu__social">
                                     <li><a aria-label="Instagram" href="<?php echo INSTAGRAM ?>" target="_blank" class="fa fa-instagram" rel="noopener">Instagram</a></li>
                                     <li><a aria-label="Facebook" href="<?php echo FACEBOOK ?>" target="_blank" class="fa fa-facebook-f" rel="noopener">Facebook</a></li>
-                                    <li><a aria-label="Twitter" href="<?php echo TWITTER ?>" target="_blank" class="fa fa-twitter" rel="noopener">Twitter</a></li>
-                                    <li><a aria-label="Pinterest" href="<?php echo PINTEREST ?>" target="_blank" class="fa fa-pinterest-p" rel="noopener">Pinterest</a></li>
+                                    <li><a aria-label="YouTube" href="<?php echo YOUTUBE ?>" target="_blank" class="fa fa-youtube-play" rel="noopener">YouTube</a></li>
+                                    <!-- <li><a aria-label="Twitter" href="<?php echo TWITTER ?>" target="_blank" class="fa fa-twitter" rel="noopener">Twitter</a></li>
+                                    <li><a aria-label="Pinterest" href="<?php echo PINTEREST ?>" target="_blank" class="fa fa-pinterest-p" rel="noopener">Pinterest</a></li> -->
                                 </ul>
                             </div>
                         </div>
@@ -74,8 +75,7 @@
                                 </li>
                                 <li>
                                     <span class="icon icon-phone" style="font-size: 18px;"></span>
-                                    <a href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a> <br>
-                                    <a href="tel:<?php echo SITE_MOBILE2 ?>"><?php echo SITE_MOBILE2 ?></a>
+                                    <a href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a>
                                 </li>
                             </ul>
                         </div>

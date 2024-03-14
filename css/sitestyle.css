@@ -9390,3 +9390,19 @@ a.whatsapp-sticky {
         border-radius: 50%;
     }
 }
+
+.video-two__single {
+    margin-bottom: var(--margin-bottom-10)
+}
+
+.video-two__content {
+    padding: 5px 10px;
+}
+
+.video-two__title {
+    font-weight: 700;
+    line-height: 38px;
+    font-size: var(--font-32);
+    margin-top: var(--margin-top-15);
+    margin-bottom: var(--margin-bottom-15)
+}

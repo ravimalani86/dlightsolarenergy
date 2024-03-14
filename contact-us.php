@@ -26,13 +26,12 @@ include_once('common/head.php');
                                 <li>
                                     <span class="icon icon-location"></span>
                                     Address
-                                    <p>Shop no:- 3-4, plot no 24 shiv park society, varachha chopati, to, Yogi Chowk Rd, Nana Varachha, Surat, Gujarat 395006</p>
+                                    <p><?php echo SITE_ADDRESS ?></p>
                                 </li>
                                 <li>
                                     <span class="icon icon-phone"></span>
                                     Phone
                                     <p><a href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a></p>
-                                    <p><a href="tel:<?php echo SITE_MOBILE2 ?>"><?php echo SITE_MOBILE2 ?></a></p>
                                 </li>
                                 <li>
                                     <span class="icon icon-email"></span>
@@ -65,11 +64,11 @@ include_once('common/head.php');
                                                 <span data-name="Message"><textarea name="Message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Your Message Here"></textarea></span>
                                             </div>
                                             <div class="form-group col-lg-6 col-md-6 col-sm-12"></div>
-                                                <div class="form-group form-btn">
-                                                    <input type="submit" value="Send Message" class="wpcf7-form-control has-spinner wpcf7-submit theme-btn btn-style-two" />
-                                                </div>
+                                            <div class="form-group form-btn">
+                                                <input type="submit" value="Send Message" class="wpcf7-form-control has-spinner wpcf7-submit theme-btn btn-style-two" />
                                             </div>
-                                            <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                        </div>
+                                        <div class="wpcf7-response-output" aria-hidden="true"></div>
                                     </form>
                                 </div>
                             </div>

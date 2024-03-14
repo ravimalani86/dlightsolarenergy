@@ -493,7 +493,6 @@ include_once('common/head.php');
                     <div class="testimonial-two__shape-three"></div>
                     <div class="testimonial-two__shape-four"></div>
                     <div class="container">
-
                         <div class="section-title centered">
                             <h2 class="section-title__title">Happy Customers Said</h2>
                         </div>
@@ -631,7 +630,7 @@ include_once('common/head.php');
                 </section>
             </section>
             <section id="content_block_10" class="content_blocks_lists content_block_10">
-                <section class="client-owl progress-one" style="margin-bottom: 150px">
+                <section class="client-owl progress-one">
                     <div class="container">
                         <div class="progress-one__inner-container">
 
@@ -684,6 +683,55 @@ include_once('common/head.php');
                                         <div class="progress-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                             <img class="lazy" src="<?php echo BASE_PATH ?>images/geda.webp" alt />
                                         </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </section>
+            <section id="content_block_11" class="content_blocks_lists content_block_11">
+                <section class="news-two" style="margin-bottom: 150px">
+                    <div class="container">
+                        <div class="section-title centered">
+                            <h2 class="section-title__title">Videos</h2>
+                            <div class="section-title__text">We adopt an individual approach with each and every client and our
+                                business <br> model is built on the following key promises.</div>
+                        </div>
+                        <div class="row clearfix">
+                            <div class="news-two__single video-two__single col-lg-4 col-md-6 col-sm-12">
+                                <div class="news-two__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                    <div class="news-two__img">
+                                        <iframe class="lazy" decoding="async" width="370" height="250" src="https://www.youtube.com/embed/_AGDEbDAGOc" frameborder="0" allowfullscreen></iframe>
+                                    </div>
+                                    <div class="news-two__content video-two__content">
+                                        <h3 class="news-two__title video-two__title">
+                                            <div>Costumer Review And Plat Videos</div>
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="news-two__single video-two__single col-lg-4 col-md-6 col-sm-12">
+                                <div class="news-two__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                    <div class="news-two__img">
+                                        <iframe class="lazy" decoding="async" width="370" height="250" src="https://www.youtube.com/embed/MffBvGk5aQA" frameborder="0" allowfullscreen></iframe>
+                                    </div>
+                                    <div class="news-two__content video-two__content">
+                                        <h3 class="news-two__title video-two__title">
+                                            <div>Our Project</div>
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="news-two__single video-two__single col-lg-4 col-md-6 col-sm-12">
+                                <div class="news-two__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                    <div class="news-two__img">
+                                        <iframe class="lazy" decoding="async" width="370" height="250" src="https://www.youtube.com/embed/_AGDEbDAGOc" frameborder="0" allowfullscreen></iframe>
+                                    </div>
+                                    <div class="news-two__content video-two__content">
+                                        <h3 class="news-two__title video-two__title">
+                                            <div>Costumer Review And Plat Videos</div>
+                                        </h3>
                                     </div>
                                 </div>
                             </div>

@@ -39,7 +39,7 @@ include_once('common/head.php');
                     </div>
                     <div class="col-12 col-md-12 col-lg-8 col-xl-8 col-xxl-9 padding-0">
                         <div class="img-round-right">
-                            <img decoding="async" class="img-fluid lazy" src="<?php echo BASE_PATH ?>images/solar-scaled-1.webp" alt="solar-scaled.webp" title="Solar Scaled" />
+                            <img decoding="async" class="img-fluid lazy epc__img-cover" src="<?php echo BASE_PATH ?>images/resedential.png" alt="solar-scaled" title="Solar Scaled" />
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ include_once('common/head.php');
                 <div class="row padding-0 margin-0 d-flex align-items-center">
                     <div class="col-12 col-md-12 col-lg-8 col-xl-8 col-xxl-9 padding-0">
                         <div class="img-round-left">
-                            <img decoding="async" class="img-fluid lazy" src="<?php echo BASE_PATH ?>images/solar-13-scaled-1.webp" alt="solar-scaled" title="Solar Scaled" />
+                            <img decoding="async" class="img-fluid lazy epc__img-cover" src="<?php echo BASE_PATH ?>images/commercial-industrial.jpg" alt="solar-scaled" title="Solar Scaled" />
                         </div>
                     </div>
                     <div class="col-12 col-md-12 col-lg-4 col-xl-4 col-xxl-3 padding-0 align-items">
@@ -75,7 +75,7 @@ include_once('common/head.php');
                     </div>
                     <div class="col-12 col-md-12 col-lg-8 col-xl-8 col-xxl-9 padding-0">
                         <div class="img-round-right">
-                            <img decoding="async" src="<?php echo BASE_PATH ?>images/solar-14-scaled-1.webp" alt="solar" class="img-fluid lazy" title="Solar" />
+                            <img decoding="async" src="<?php echo BASE_PATH ?>images/group-housing-society.jpg" alt="solar" class="img-fluid lazy epc__img-cover" title="Solar" />
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@ include_once('common/head.php');
                 <div class="row padding-0 margin-0 d-flex align-items-center">
                     <div class="col-12 col-md-12 col-lg-8 col-xl-8 col-xxl-9 padding-0">
                         <div class="img-round-left">
-                            <img decoding="async" class="img-fluid lazy" src="<?php echo BASE_PATH ?>images/solarscaled.webp" alt="solar-scaled" title="solar-panel" />
+                            <img decoding="async" class="img-fluid lazy epc__img-cover" src="<?php echo BASE_PATH ?>images/agriculture.png" alt="solar-scaled" title="solar-panel" />
                         </div>
                     </div>
                     <div class="col-12 col-md-12 col-lg-4 col-xl-4 col-xxl-3 padding-0 align-items">

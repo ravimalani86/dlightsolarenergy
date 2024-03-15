@@ -1,5 +1,5 @@
 <div class="main">
-    <section class="page-title lazy" style data-bg="url('<?php echo BASE_PATH ?>images/2.webp')">
+    <section class="page-title lazy" style data-bg="url('<?php echo BASE_PATH ?>images/bg2.png')">
         <div class="container">
             <h1 class="page-main__title"><?php echo PAGE_NAME; ?></h1>
             <div class="page__breadcrumb">

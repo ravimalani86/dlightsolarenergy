@@ -20,7 +20,7 @@ include_once('common/head.php');
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="solar-inverter">
-                            <img class="lazy loaded" decoding="async" src="<?php echo BASE_PATH ?>images/dcdb.webp" alt="dcdb" title="DCDB" data-was-processed="true">
+                            <img class="lazy loaded" decoding="async" src="<?php echo BASE_PATH ?>images/dcdb.png" alt="dcdb" title="DCDB" data-was-processed="true">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 align-items">
@@ -44,7 +44,7 @@ include_once('common/head.php');
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="solar-inverter">
-                            <img class="lazy loaded" decoding="async" src="<?php echo BASE_PATH ?>images/acdb.webp" alt="acdb" title="ACDB" data-was-processed="true">
+                            <img class="lazy loaded" decoding="async" src="<?php echo BASE_PATH ?>images/acdb.png" alt="acdb" title="ACDB" data-was-processed="true">
                         </div>
                     </div>
                 </div>

@@ -3577,12 +3577,24 @@ img {
     overflow: hidden
 }
 
+.energy-one__image img {
+    width: 367px;
+    height: 296px;
+    object-fit: cover;
+}
+
 .energy-one__image-two {
     position: relative;
     border-radius: 5px;
     overflow: hidden;
     display: inline-block;
     margin-top: var(--margin-top-50)
+}
+
+.energy-one__image-two img {
+    width: 261px;
+    height: 305px;
+    object-fit: cover;
 }
 
 .energy-one__image-three {
@@ -3593,6 +3605,12 @@ img {
     overflow: hidden;
     display: inline-block;
     margin-left: var(--margin-left-15)
+}
+
+.energy-one__image-three img {
+    width: 264px;
+    height: 364px;
+    object-fit: cover;
 }
 
 .energy-one__color-three {
@@ -3873,7 +3891,7 @@ img {
 .choose-one {
     position: relative;
     padding: 90px 0 190px;
-    background-color: var(--dlight-fifteen-color)
+    background-color: var(--dlight-fifteen-color);
 }
 
 .choose-one.style-two {
@@ -3904,6 +3922,10 @@ img {
     overflow: hidden;
     background-color: var(--dlight-white);
     min-height: 400px
+}
+
+.choose-one__single-bg {
+    background-color: var(--dlight-fifteen-color) !important;
 }
 
 .choose-one__single-inner::before {
@@ -8991,7 +9013,7 @@ h3.testimonial-two__title {
 }
 
 .footer-bg {
-    background-image: url(../images/footer-solar-bg.webp);
+    background-image: url(../images/footer-solar-bg.png);
     background-position: bottom right;
     background-size: 30%
 }
@@ -9017,7 +9039,7 @@ h3.testimonial-two__title {
 
 .counter-well {
     padding: 50px 0 200px;
-    background-image: url(../images/home-bottom.webp);
+    background-image: url(../images/home-bottom.jpg);
     background-position: bottom;
     background-color: #fff;
     background-size: cover;
@@ -9210,7 +9232,8 @@ h3.testimonial-two__title {
 }
 
 .product-menu img {
-    height: 90px
+    height: 90px;
+    margin-bottom: 10px;
 }
 
 .product-menu .p-icon {
@@ -9226,7 +9249,7 @@ h3.testimonial-two__title {
 
 .product-menu .a-link {
     text-align: center;
-    color: #395686;
+    color: #000;
     font-family: var(--font-18);
     font-weight: 600
 }
@@ -9405,4 +9428,10 @@ a.whatsapp-sticky {
     font-size: var(--font-32);
     margin-top: var(--margin-top-15);
     margin-bottom: var(--margin-bottom-15)
+}
+
+.epc__img-cover {
+    height: 700px;
+    width: 100%;
+    object-fit: cover;
 }

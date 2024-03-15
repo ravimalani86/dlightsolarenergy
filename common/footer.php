@@ -2,10 +2,8 @@
     <div class="site-footer__shape-two">
     </div>
     <div class="container">
-
         <div class="site-footer__middle">
             <div class="row clearfix">
-
                 <div class="footer-widget__column col-lg-3 col-md-6 col-sm-12">
                     <aside id="custom_html-2" class="widget_text widget footer-widget  footer-widget__links-list">
                         <h3 class="footer-widget__title">About Solar</h3>

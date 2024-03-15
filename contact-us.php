@@ -79,7 +79,7 @@ include_once('common/head.php');
         </section>
         <section id="content_block_2" class="content_blocks_lists content_block_2">
             <section class="contact-map">
-                <iframe title="D-Light Solar Gmap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14875.95163069582!2d72.8754502!3d21.2323281!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04fedc5b808c1%3A0xb3d20b0e422841bc!2sD-LIGHT%20SOLAR%20ENERGY%20LLP!5e0!3m2!1sen!2sin!4v1710321795543!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe title="D-Light Solar Gmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3718.9736973422177!2d72.87367667600219!3d21.232891580734577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04f000d0fa39d%3A0x8ecb5ba93c45f9e8!2sAnjani%20row%20house!5e0!3m2!1sen!2sin!4v1710503234178!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </section>
         </section>
     </div>

@@ -16,7 +16,7 @@ include_once('common/head.php');
                         <div class="player-overlay"></div>
                         <div class="video-wrapper full-screen-width">
                             <video autoplay muted loop poster="<?php echo BASE_PATH ?>images/gallery-part.webp" class="lazy html-video video-fluid" preload="auto">
-                                <source type="video/mp4" src="<?php echo BASE_PATH ?>video/solar.mp4">
+                                <source type="video/mp4" src="<?php echo BASE_PATH ?>video/solar-design.mp4">
                             </video>
                             <h1 class="home-video-title wow fadeInUp animated">
                                 Renewable energy <br> Doesn’t cost the earth
@@ -77,13 +77,13 @@ include_once('common/head.php');
                                     <div class="energy-one__shape-four"></div>
                                     <div class="energy-one__color-three"></div>
                                     <div class="energy-one__image">
-                                        <img class="lazy" decoding="async" width="367" height="296" src="<?php echo BASE_PATH ?>images/energy.webp" alt="energy" title="energy">
+                                        <img class="lazy" decoding="async" width="367" height="296" src="<?php echo BASE_PATH ?>images/energy.png" alt="energy" title="energy">
                                     </div>
                                     <div class="energy-one__image-two">
-                                        <img class="lazy" decoding="async" width="261" height="305" src="<?php echo BASE_PATH ?>images/energy-part.webp" alt="energy-part" title="energy-part">
+                                        <img class="lazy" decoding="async" width="261" height="305" src="<?php echo BASE_PATH ?>images/energy-part.png" alt="energy-part" title="energy-part">
                                     </div>
                                     <div class="energy-one__image-three">
-                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/energy-solor.webp" alt="energy-solor" title="energy-solor">
+                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/energy-solor.png" alt="energy-solor" title="energy-solor">
                                     </div>
                                 </div>
                             </div>
@@ -104,7 +104,7 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-pv.webp" />
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-pv.png" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-panel.php"> Solar Panels </a></h3>
                                     <a href="<?php echo BASE_PATH ?>solar-panel.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
@@ -114,7 +114,7 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/on-grid-inverter.webp" />
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/on-grid-inverter.png" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>on-grid-inverter.php"> On-grid Inverter </a></h3>
                                     <a href="<?php echo BASE_PATH ?>on-grid-inverter.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
@@ -124,7 +124,7 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-accessories.webp" />
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-accessories.png" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-accessories.php"> Solar Accessories </a></h3>
                                     <a href="<?php echo BASE_PATH ?>solar-accessories.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
@@ -134,7 +134,7 @@ include_once('common/head.php');
 
                             <!-- <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-water-heater.webp" />
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-water-heater.png" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-water-heater.php"> Solar Water Heater </a></h3>
                                     <a href="<?php echo BASE_PATH ?>solar-water-heater.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
@@ -144,7 +144,7 @@ include_once('common/head.php');
 
                             <!-- <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/battery-inverter.webp" />
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/battery-inverter.png" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>battery-inverter.php"> Battery Inverter </a></h3>
                                     <a href="<?php echo BASE_PATH ?>battery-inverter.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
@@ -154,7 +154,7 @@ include_once('common/head.php');
 
                             <div class="service-one__single col-lg-3 col-md-6 col-sm-12">
                                 <div class="service-one__single-inner wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-street-light.webp" />
+                                    <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-street-light.png" />
                                     <h3 class="service-one__title text-uppercase"><a href="<?php echo BASE_PATH ?>solar-street-light.php"> Solar Street Light </a></h3>
                                     <a href="<?php echo BASE_PATH ?>solar-street-light.php" class="service-one__read-more">
                                         Read More <span class="service-one__read-arrow icon-right-arrow"></span>
@@ -252,7 +252,7 @@ include_once('common/head.php');
                         <div class="row clearfix">
 
                             <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                                <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <div class="choose-one__single-inner choose-one__single-bg wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <div class="choose-one__icon icon-renewable-energy-2"></div>
                                     <h3 class="choose-one__title">
                                         <div>LONG TIME TO USE</div>
@@ -262,7 +262,7 @@ include_once('common/head.php');
                             </div>
 
                             <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                                <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
+                                <div class="choose-one__single-inner choose-one__single-bg wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
                                     <div class="choose-one__icon icon-plug-electronics"></div>
                                     <h3 class="choose-one__title">
                                         <div>HELP THE ENVIRONMENT</div>
@@ -272,7 +272,7 @@ include_once('common/head.php');
                             </div>
 
                             <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                                <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+                                <div class="choose-one__single-inner choose-one__single-bg wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
                                     <div class="choose-one__icon icon-renewable-energy"></div>
                                     <h3 class="choose-one__title">
                                         <div>FLEXIBILITY</div>
@@ -282,7 +282,7 @@ include_once('common/head.php');
                             </div>
 
                             <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                                <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
+                                <div class="choose-one__single-inner choose-one__single-bg wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
                                     <div class="choose-one__icon icon-power-plant"></div>
                                     <h3 class="choose-one__title">
                                         <div>ENERGY INDEPENDENCE
@@ -293,7 +293,7 @@ include_once('common/head.php');
                             </div>
 
                             <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                                <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
+                                <div class="choose-one__single-inner choose-one__single-bg wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
                                     <div class="choose-one__icon icon-power-plant"></div>
                                     <h3 class="choose-one__title">
                                         <div>SAVE MONEY
@@ -304,7 +304,7 @@ include_once('common/head.php');
                             </div>
 
                             <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                                <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
+                                <div class="choose-one__single-inner choose-one__single-bg wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
                                     <div class="choose-one__icon icon-power-plant"></div>
                                     <h3 class="choose-one__title">
                                         <div>TAX BENEFIT
@@ -316,7 +316,7 @@ include_once('common/head.php');
                             </div>
 
                             <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                                <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
+                                <div class="choose-one__single-inner choose-one__single-bg wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
                                     <div class="choose-one__icon icon-power-plant"></div>
                                     <h3 class="choose-one__title">
                                         <div>POWER PURCHASE AGREEMENT
@@ -328,7 +328,7 @@ include_once('common/head.php');
                             </div>
 
                             <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                                <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
+                                <div class="choose-one__single-inner choose-one__single-bg wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
                                     <div class="choose-one__icon icon-power-plant"></div>
                                     <h3 class="choose-one__title">
                                         <div>MONITORING
@@ -405,85 +405,6 @@ include_once('common/head.php');
                                 </div>
                             </div>
                         </div>
-                </section>
-
-                <section class="news-two d-none">
-                    <div class="container">
-
-                        <div class="section-title centered">
-                            <h2 class="section-title__title">Latest news &#038; events</h2>
-                            <div class="section-title__text">We adopt an individual approach with each and every client and our
-                                business <br> model is built on the following key promises.</div>
-                        </div>
-                        <div class="row clearfix">
-
-                            <div class="news-two__single col-lg-4 col-md-6 col-sm-12">
-                                <div class="news-two__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    <div class="news-two__img">
-                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-part.webp" alt="gallery part" title="Gallery Part">
-                                        <div class="news-two__category">Solar Power</div>
-                                    </div>
-                                    <div class="news-two__content">
-                                        <ul class="news-two__meta">
-                                            <li>
-                                                <div><i class="icon-clock"></i>22-02-22</div>
-                                            </li>
-                                        </ul>
-                                        <h3 class="news-two__title">
-                                            <div>Is solar or wind a better way to
-                                                power your Home?</div>
-                                        </h3>
-                                        <div class="news-two__text">Convallis convallis tellus id interdum velit laoreet lorem
-                                            ipsum dolor solar</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="news-two__single col-lg-4 col-md-6 col-sm-12">
-                                <div class="news-two__single-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    <div class="news-two__img">
-                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-part.webp" alt="gallery-part" title="Gallery Part">
-                                        <div class="news-two__category">Solar Power</div>
-                                    </div>
-                                    <div class="news-two__content">
-                                        <ul class="news-two__meta">
-                                            <li>
-                                                <div><i class="icon-clock"></i>22-02-22</div>
-                                            </li>
-                                        </ul>
-                                        <h3 class="news-two__title">
-                                            <div>Is solar or wind a better way to
-                                                power your Home?</div>
-                                        </h3>
-                                        <div class="news-two__text">Convallis convallis tellus id interdum velit laoreet lorem
-                                            ipsum dolor solar</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="news-two__single col-lg-4 col-md-6 col-sm-12">
-                                <div class="news-two__single-inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                    <div class="news-two__img">
-                                        <img class="lazy" decoding="async" src="<?php echo BASE_PATH ?>images/gallery-part.webp" alt="gallery-part" title="Gallery Part">
-                                        <div class="news-two__category">Solar Power</div>
-                                    </div>
-                                    <div class="news-two__content">
-                                        <ul class="news-two__meta">
-                                            <li>
-                                                <div><i class="icon-clock"></i>22-02-22</div>
-                                            </li>
-                                        </ul>
-                                        <h3 class="news-two__title">
-                                            <div>Is solar or wind a better way to
-                                                power your Home?</div>
-                                        </h3>
-                                        <div class="news-two__text">Convallis convallis tellus id interdum velit laoreet lorem
-                                            ipsum dolor solar</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </section>
             </section>
             <section id="content_block_8" class="content_blocks_lists content_block_8">

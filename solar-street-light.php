@@ -20,7 +20,7 @@ include_once('common/head.php');
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="solar-inverter">
-                            <img class="lazy loaded" decoding="async" src="<?php echo BASE_PATH ?>images/Solar-Steet-Light.webp" alt="Solar-Steet-Light" title="Solar-Steet-Light" data-was-processed="true">
+                            <img class="lazy loaded" decoding="async" src="<?php echo BASE_PATH ?>images/Solar-Steet-Light.png" alt="Solar-Steet-Light" title="Solar-Steet-Light" data-was-processed="true">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12 align-items">

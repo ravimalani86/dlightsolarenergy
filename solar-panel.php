@@ -13,11 +13,10 @@ include_once('common/head.php');
         <?php include_once('common/breadcrumb.php'); ?>
     </div>
     <?php include_once('product-breadcrumb.php'); ?>
-    <section class="download-section style-two pt-0">
+    <section class="style-two pt-0">
         <div class="section-1 pt-0">
-            <div class="container  mt-20">
+            <div class="container mt-20">
                 <div class="row clearfix">
-
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="solar-inverter">
                             <img class="lazy" src="<?php echo BASE_PATH ?>images/solar-panel.png" alt="Solar-Panel" title="Solar Panel">
@@ -29,6 +28,44 @@ include_once('common/head.php');
                             <p>Solar panels possess high-quality monocrystalline modules that are efficient, reliable, and durable. Also, the panel price remains reasonable and affordable to the audiences.</p>
                             <p>Solar panels are paramount to making a 20% operational efficiency. The panels produce a lot of electricity and generate a tremendous amount of energy. Even in low-light settings, such as dawn, dusk, and overcast skies days, panels deliver a substantial quantity of electricity.</p>
                             <p>Solar panels have a 12-year materials and processing guarantee and a 25-year additional linear power output extended warranty.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="download-section style-two pt-0">
+        <div class="pt-0">
+            <div class="container">
+                <div class="row clearfix">
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="solar-company-logo">
+                            <img class="lazy" src="<?php echo BASE_PATH ?>images/company/adani-solar.png">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="solar-company-logo">
+                            <img class="lazy" src="<?php echo BASE_PATH ?>images/company/goldi-solar.png">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="solar-company-logo">
+                            <img class="lazy" src="<?php echo BASE_PATH ?>images/company/pahal-solar.png">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="solar-company-logo">
+                            <img class="lazy" src="<?php echo BASE_PATH ?>images/company/rayzon-solar.png">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="solar-company-logo">
+                            <img class="lazy" src="<?php echo BASE_PATH ?>images/company/sunora-solar.png">
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="solar-company-logo">
+                            <img class="lazy" src="<?php echo BASE_PATH ?>images/company/waaree-solar.png">
                         </div>
                     </div>
                 </div>

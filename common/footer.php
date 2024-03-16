@@ -1,6 +1,6 @@
 <footer class="site-footer footer-bg">
-    <div class="site-footer__shape-two">
-    </div>
+    <!-- <div class="site-footer__shape-two">
+    </div> -->
     <div class="container">
         <div class="site-footer__middle">
             <div class="row clearfix">
@@ -82,7 +82,7 @@
             </div>
             <div class="row footer-last clearfix">
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    Copyrights &copy; 2024 dlightsolar All Rights Reserved.
+                    Copyrights &copy; 2024 dlightsolar All Rights Reserved. | Design by Blackstone Infotech
                 </div>
             </div>
         </div>

@@ -9309,7 +9309,8 @@ h3.testimonial-two__title {
 }
 
 .solar-bg .service-one__single img {
-    height: 200px
+    height: 150px;
+    padding: 20px;
 }
 
 .form-btn input {
@@ -9434,4 +9435,10 @@ a.whatsapp-sticky {
     height: 700px;
     width: 100%;
     object-fit: cover;
+}
+
+.solar-company-logo img {
+    height: 225px;
+    width: 225px;
+    object-fit: contain;
 }

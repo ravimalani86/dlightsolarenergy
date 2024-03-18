@@ -1,6 +1,5 @@
 <?php
-define('BASE_PATH', "https://dlightsolar.in/");
-// define('BASE_PATH', "http://localhost/dlightsolar/");
+define('BASE_PATH', "https://dlightsolarenergy.in/");
 define('SITE_TITLE', "D-Light Solar | Solar Panel Provider");
 define('SITE_EMAIL', "dlightsolarenergy@gmail.com");
 define('SITE_ADDRESS', "35, Anjani Row House, B/H.Hans Society, Mota Varachha, Surat, Gujarat, 394101");

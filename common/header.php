@@ -64,7 +64,7 @@
                                         </ul>
                                     </li>
                                     <li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552 <?php echo ($active === 'epc') ? 'current-menu-item' : ''; ?>"><a href="<?php echo BASE_PATH ?>epc.php">EPC</a></li>
-                                    <!-- <li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="<?php echo BASE_PATH ?>download.php">Download</a></li> -->
+                                    <li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837 <?php echo ($active === 'download') ? 'current-menu-item' : ''; ?>"><a href="<?php echo BASE_PATH ?>download.php">Download</a></li>
                                     <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54 <?php echo ($active === 'contactus') ? 'current-menu-item' : ''; ?>"><a href="<?php echo BASE_PATH ?>contact-us.php">Contact Us</a></li>
                                 </ul>
                             </div>

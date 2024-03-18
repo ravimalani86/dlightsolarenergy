@@ -24,29 +24,11 @@ include_once('common/head.php');
                     </p>
                 </div>
                 <div class="row clearfix">
-
                     <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
                         <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                             <img class="lazy" src="<?php echo BASE_PATH ?>images/pdf.svg">
-                            <h3 class="choose-one__title"><a href="#">Price List </a></h3>
-                            <a class="choose-one__arrow download-btn fa fa-download" href="<?php echo BASE_PATH ?>uploads/Rate-List.pdf" target="_blank"></a>
-
-                        </div>
-                    </div>
-                    <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                        <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                            <img class="lazy" src="<?php echo BASE_PATH ?>images/pdf.svg">
-                            <h3 class="choose-one__title"><a href="#">Vsole </a></h3>
-                            <a class="choose-one__arrow download-btn fa fa-download" href="<?php echo BASE_PATH ?>uploads/Vsole.pdf" target="_blank"></a>
-
-                        </div>
-                    </div>
-                    <div class="choose-one__single col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                        <div class="choose-one__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                            <img class="lazy" src="<?php echo BASE_PATH ?>images/pdf.svg">
-                            <h3 class="choose-one__title"><a href="#">Brochure Solar </a></h3>
-                            <a class="choose-one__arrow download-btn fa fa-download" href="<?php echo BASE_PATH ?>uploads/Brochure-2023.pdf" target="_blank"></a>
-
+                            <h3 class="choose-one__title"><a href="#">Brochure </a></h3>
+                            <a class="choose-one__arrow download-btn fa fa-download" href="<?php echo BASE_PATH ?>uploads/d-light-solar.pdf" target="_blank"></a>
                         </div>
                     </div>
                 </div>

@@ -56,7 +56,7 @@
                             <ul id="menu-explore-link" class="menu">
                                 <li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="<?php echo BASE_PATH ?>about-us.php">&#8211; About Us</a></li>
                                 <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="<?php echo BASE_PATH ?>contact-us.php">&#8211; Contact Us</a></li>
-                                <!-- <li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836"><a href="<?php echo BASE_PATH ?>download.php">&#8211; Download</a></li> -->
+                                <li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836"><a href="<?php echo BASE_PATH ?>download.php">&#8211; Download</a></li>
                             </ul>
                         </div>
                     </aside>

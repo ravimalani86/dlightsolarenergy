@@ -407,7 +407,7 @@ include_once('common/head.php');
                         </div>
                 </section>
             </section>
-            <section id="content_block_8" class="content_blocks_lists content_block_8">
+            <!-- <section id="content_block_8" class="content_blocks_lists content_block_8">
                 <section class="testimonial-two solar-bg-2">
                     <div class="testimonial-two__shape-one"></div>
                     <div class="testimonial-two__shape-two"></div>
@@ -479,7 +479,7 @@ include_once('common/head.php');
                         </div>
                     </div>
                 </section>
-            </section>
+            </section> -->
             <section id="content_block_9" class="content_blocks_lists content_block_9">
 
                 <section class="choose-two counter-well">

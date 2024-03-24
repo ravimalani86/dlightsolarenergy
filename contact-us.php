@@ -31,7 +31,10 @@ include_once('common/head.php');
                                 <li>
                                     <span class="icon icon-phone"></span>
                                     Phone
-                                    <p><a href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a></p>
+                                    <p>
+                                        <a href="tel:<?php echo SITE_MOBILE1 ?>"><?php echo SITE_MOBILE1 ?></a><br>
+                                        <a href="tel:<?php echo SITE_MOBILE2 ?>"><?php echo SITE_MOBILE2 ?></a>
+                                    </p>
                                 </li>
                                 <li>
                                     <span class="icon icon-email"></span>

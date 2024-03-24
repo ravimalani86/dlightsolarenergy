@@ -623,11 +623,11 @@ include_once('common/head.php');
                             <div class="news-two__single video-two__single col-lg-4 col-md-6 col-sm-12">
                                 <div class="news-two__single-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <div class="news-two__img">
-                                        <iframe class="lazy" decoding="async" width="370" height="250" src="https://www.youtube.com/embed/_AGDEbDAGOc" frameborder="0" allowfullscreen></iframe>
+                                        <iframe class="lazy" decoding="async" width="370" height="250" src="https://www.youtube.com/embed/0V8_BltMb4I" frameborder="0" allowfullscreen></iframe>
                                     </div>
                                     <div class="news-two__content video-two__content">
                                         <h3 class="news-two__title video-two__title">
-                                            <div>Costumer Review And Plat Videos</div>
+                                            <div>D-light Solar Energy LLP</div>
                                         </h3>
                                     </div>
                                 </div>
